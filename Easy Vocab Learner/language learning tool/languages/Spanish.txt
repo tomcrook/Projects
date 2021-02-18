@@ -1,0 +1,4982 @@
+the;el, la
+of, from;de
+that, which;que
+and;y
+to, at;a
+in, on;en
+a, an;un
+to be (norm);ser
+[reflexive marker];se
+no;no
+to have (+Ved);haber
+by, for, through;por
+with;con
+his/her/their/your (-fam);su
+for, to, in order to;para
+like, as;como
+to be (location, change from norm);estar
+to have;tener
+[3rd person] (indirect obj);le
+the (+ neuter);lo
+[3rd person] (direct obj-m);lo
+all, every;todo
+but, yet, except;pero
+more;más
+to do, make;hacer
+or;o
+poder;to be able to; can
+to tell, say;decir
+this (m) [esta (f)];este
+to go;ir
+other, another;otro
+that (m) [esa (f)];ese
+[3rd person] (direct obj-f);la
+if, whether;si
+me (obj);me
+already, still;ya
+to see;ver
+because;porque
+to give;dar
+when;cuándo
+he, [ellos] them (m);él
+very, really;muy
+without;sin
+time (specific occurrence);vez
+much, many, a lot (adv);mucho
+to know (a fact), find out;saber
+what?, which?, how (+ adj)!;qué
+on top of, over, about;sobre
+my;mi
+some, someone (pron);alguno
+same;mismo
+I (subj);yo
+also;también
+until, up to, even (adv);hasta
+year;año
+two;dos
+to want, love;querer
+between, among;entre
+like that;así
+first;primero
+from, since;desde
+large, great, big;grande
+that (n);eso
+not even, neither, nor;ni
+us (obj);nos
+to arrive;llegar
+to pass, spend (time);pasar
+time (general), weather;tiempo
+she, [ellas] them (f);ella
+yes;sí
+day;día
+one;uno
+well;bien
+little, few, a little bit (adv);poco
+deber;should, ought to; to owe
+so, then;entonces
+to put (on), get (+adj);poner
+thing;cosa
+so much, so many;tanto
+man, mankind, husband;hombre
+to seem, look like;parecer
+our;nuestro
+such, as, too, so;tan
+where;dónde
+now;ahora
+part, portion;parte
+after;después
+life;vida
+to remain, stay;quedar
+always, forever;siempre
+to believe, think;creer
+to speak, talk;hablar
+to take, carry;llevar
+to let, leave;dejar
+nothing, (not) at all;nada
+each, every;cada
+to follow, keep on;seguir
+less, fewer;menos
+new;nuevo
+to find;encontrar
+something, somewhat;algo
+only, just;sólo
+then, well then;pues
+to call, name;llamar
+to come;venir
+to think;pensar
+that (over there);aquel
+moment, time;momento
+but, except, rather;sino
+this (n);esto
+to leave, go out;salir
+to return, to V again;volver
+form, shape, way;forma
+before;antes
+good;bueno
+house;casa
+although, even though;aunque
+world;mundo
+three;tres
+such (a);tal
+best, better (adv);mejor
+to take, drink;tomar
+certain, sure, true;cierto
+to know (someone or place);conocer
+toward, towards;hacia
+how?;cómo
+woman, wife;mujer
+to live;vivir
+here;aquí
+case, occasion;caso
+to feel, regret;sentir
+later, afterwards;luego
+country;país
+to try, treat, deal with;tratar
+place, position;lugar
+you (obj/+fam);te
+person;persona
+larger, older, main;mayor
+last, final;último
+own, proper, typical;propio
+who, whom;quien
+to look, watch;mirar
+hour, time (specific);hora
+no, none, nobody (pron);ninguno
+work, job, effort;trabajo
+almost, nearly;casi
+point, dot, period;punto
+during, for (time);durante
+any, anyone (pron);cualquier
+hand;mano
+never, ever;nunca
+way, manner;manera
+which, who, whom;cual
+while, whereas, as long as;mientras
+to tell, count;contar
+end;fin
+type, kind;tipo
+people;gente
+also, as well, besides;además
+lonely, alone;solo
+to begin, start;empezar
+example;ejemplo
+to wait, hope (for), expect;esperar
+today, nowadays;hoy
+side;lado
+son, [pl] children;hijo
+there, over there;allí
+this one (m), [ésta (f)];éste
+problem;problema
+bill, account;cuenta
+medio;means, middle; por medio: through
+against, opposite;contra
+to look for;buscar
+inside;dentro
+long;largo
+word;palabra
+to exist;existir
+child, little boy;niño
+to enter;entrar
+sin embargo: nevertheless;embargo
+only, unique, sole;único
+father;padre
+to work;trabajar
+little, small, young;pequeño
+tall, high;alto
+change;cambio
+to write;escribir
+four;cuatro
+there;ahí
+to lose, miss;perder
+we (subj);nosotros
+history, story;historia
+idea;idea
+water;agua
+to produce, cause;producir
+night, evening;noche
+city;ciudad
+way, manner;modo
+name, noun;nombre
+to happen, occur;ocurrir
+family;familia
+reality, actuality;realidad
+to understand;entender
+to ask for, request;pedir
+to receive;recibir
+work, book, deed;obra
+important;importante
+half, middle;medio
+truth;verdad
+month;mes
+still, yet;todavía
+razón;reason; tener razón: to be right
+en cuanto a: in terms of, regarding;cuanto
+under, underneath;bajo
+to remember, remind;recordar
+group;grupo
+thousand;mil
+human;humano
+to finish, end;terminar
+to allow, permit;permitir
+to appear;aparecer
+to get, acquire, obtain;conseguir
+to begin, start;comenzar
+several, various;varios
+possible;posible
+to serve;servir
+general;general
+to take out;sacar
+to need;necesitar
+relationship, relation;relación
+five;cinco
+body;cuerpo
+nobody, anybody;nadie
+to keep, maintain;mantener
+fact, happening;hecho
+before, in the presence of;ante
+beginning, principle;principio
+to result, turn out;resultar
+equal, same (as);igual
+sir, Mr., lord;señor
+people, village;pueblo
+afternoon, evening;tarde
+second;segundo
+to read;leer
+to fall;caer
+to change;cambiar
+eye;ojo
+street;calle
+to introduce, present;presentar
+white;blanco
+to create;crear
+to open;abrir
+book;libro
+distinct, different;distinto
+strength, force, power;fuerza
+light;luz
+according to;según
+saint (m);santo
+clear;claro
+frente;al frente: facing; frente a: across from
+to consider;considerar
+friend;amigo
+to hear;oír
+whose;cuyo
+sense, feeling;sentido
+finish;acabar
+step, pace;paso
+situation;situación
+you (subj/-fam);usted
+rather, fairly, quite a bit (adv);bastante
+to convert, change, become;convertir
+gracia;thank you; grace, favor
+century, age;siglo
+god, divinity;dios
+bad;malo
+earth, land, ground;tierra
+paper, role, part;papel
+mother;madre
+neither, nor, either;tampoco
+social;social
+old, aged;viejo
+still, yet;aún
+theme, subject, topic;tema
+political;político
+Spanish;español
+to win, earn;ganar
+to form;formar
+kind, class, order;clase
+to bring, carry;traer
+partir;to divide, leave; a partir de: starting
+money;dinero
+who?, whom?;quién
+to die;morir
+including, even (adv);incluso
+field, country;campo
+to accept;aceptar
+perhaps, maybe;quizás
+head (part of body);cabeza
+to fulfill, carry out;realizar
+hundred;ciento
+badly;mal
+orden;order; sequence (m), religious (f)
+courtesy title (m), Mr., gift;don
+week;semana
+to suppose, assume;suponer
+to understand;comprender
+al final: finally, in the end;final
+interest;interés
+following, next;siguiente
+view, sight;vista
+to achieve, get, manage;lograr
+the rest, others;demás
+acuerdo;accord; de acuerdo: in agreement
+difficult, hard;difícil
+number;número
+to explain;explicar
+black;negro
+bottom, end;fondo
+road, route, path;camino
+voice;voz
+study, learning;estudio
+necessary;necesario
+to ask (a question);preguntar
+there, over there;allá
+to touch, play (instrument);tocar
+value, worth;valor
+to recognize, admit;reconocer
+to study;estudiar
+to reach, catch up with;alcanzar
+to be born;nacer
+to direct, manage;dirigir
+to run;correr
+medida;measure; a medida que: to the extent
+younger, youngest;menor
+too much, too many;demasiado
+only;solamente
+well...;bueno
+to use, utilize;utilizar
+center, middle, downtown;centro
+necessity, need;necesidad
+condition;condición
+to pay;pagar
+it (subj-n);ello
+lack, shortage;falta
+to help;ayudar
+ten;diez
+a través: across, over, through;través
+old, ancient, former;antiguo
+your (sg/+fam);tu
+age;edad
+state, condition, status;estado
+being;ser
+to be pleasing to;gustar
+door;puerta
+to play (sport/game);jugar
+face, expression;cara
+me (obj prep);mí
+time, age, period;época
+color;color
+to listen to;escuchar
+experience;experiencia
+movement;movimiento
+to fulfill;cumplir
+special;especial
+different, separate;diferente
+pesar;sorrow; a pesar de: in spite of
+possibility;posibilidad
+to offer, present;ofrecer
+to discover;descubrir
+previous, preceding;anterior
+game, play, sport;juego
+to raise, lift;levantar
+poor;pobre
+air, wind, appearance;aire
+six;seis
+to try, attempt;intentar
+war, warfare;guerra
+together with, next to;junto
+result, outcome;resultado
+to use;usar
+to decide;decidir
+to repeat;repetir
+to forget;olvidar
+law, bill, rule;ley
+aspect, appearance;aspecto
+foot, base;pie
+to be worth, cost;valer
+kind, sort, species;especie
+to eat;comer
+service, helpfulness;servicio
+close, near;cerca
+to show;mostrar
+activity, action;actividad
+third;tercero
+which?;cuál
+soon, quick;pronto
+to occupy, use;ocupar
+question, matter;cuestión
+doubt;duda
+difference;diferencia
+morning, tomorrow;mañana
+to move, incite;mover
+to continue;continuar
+quantity, amount;cantidad
+action, act, deed;acción
+to happen;suceder
+to set, fix, [se] notice;fijar
+society;sociedad
+to refer (to);referir
+to come near;acercar
+capable, able;capaz
+short, low;bajo
+free, vacant;libre
+natural;natural
+to dedicate, devote;dedicar
+really, actually, in fact;realmente
+peso (money), weight, load;peso
+effect;efecto
+object, thing;objeto
+true, real;verdadero
+where?;dónde
+to learn;aprender
+love;amor
+death;muerte
+party, group, (sports) match;partido
+economic;económico
+right, justice, law;derecho
+power;poder
+importance;importancia
+system;sistema
+travel, trip;viaje
+ground, floor;suelo
+respect, con respecto a: with regards to;respecto
+knowledge;conocimiento
+freedom, liberty;libertad
+above, on top, in addition;encima
+to buy;comprar
+common;común
+open, unlocked;abierto
+next;próximo
+attention;atención
+young;joven
+to go up;subir
+effort, endeavor;esfuerzo
+past, last;pasado
+to avoid, prevent;evitar
+rest, remainder, leftover;resto
+to interest;interesar
+area, zone;zona
+fear;miedo
+out, outside, away;fuera
+process, procedure;proceso
+alive, bright;vivo
+to close;cerrar
+to throw, cast;echar
+to answer, respond;responder
+to suffer, undergo;sufrir
+complete;completo
+minute;minuto
+contrary, opposite;contrario
+table, board;mesa
+royal, real, authentic;real
+opportunity, occasion;ocasión
+to matter, import;importar
+public;público
+to obtain;obtener
+program, plan;programa
+favor, benefit;favor
+far (away, off);lejos
+seven;siete
+enormous, vast;enorme
+answer, reply;respuesta
+line, course;línea
+space, room;espacio
+level;nivel
+government;gobierno
+cabo;end, bit; llevar a c.: to carry out
+to observe;observar
+to indicate;indicar
+somebody, someone, anyone;alguien
+question;pregunta
+of course, clearly;claro
+back, behind, ago;atrás
+image, picture;imagen
+career, course, race;carrera
+to imagine;imaginar
+to be accustomed to;soler
+both;ambos
+deep, profound;profundo
+to stop, detain;detener
+to develop;desarrollar
+eight;ocho
+to point (out), signal;señalar
+to choose, elect;elegir
+figure;figura
+main, principal;principal
+animal;animal
+base, basis;base
+to prepare;preparar
+to propose;proponer
+to show, demonstrate;demostrar
+to mean;significar
+position;posición
+motive, cause;motivo
+proof, trial, test;prueba
+politics, policy;política
+national;nacional
+full, filled;lleno
+to gather, meet, collect;reunir
+to be lacking;faltar
+supuesto;supposed; por supuesto: of course
+to accompany;acompañar
+data, fact;dato
+easy;fácil
+to want, desire, wish for;desear
+forward, further;adelante
+firm, company, venture;empresa
+matter, issue, affair;asunto
+presence, appearance;presencia
+his, hers, yours (-fam), theirs;suyo
+culture;cultura
+series;serie
+million, fortune;millón
+to teach, show;enseñar
+to construct, build;construir
+to sell;vender
+to represent;representar
+to disappear, vanish;desaparecer
+to send, order;mandar
+personality, nature;carácter
+majority;mayoría
+school;escuela
+red;rojo
+after, behind;tras
+superior, upper;superior
+to walk, function;andar
+short, brief;corto
+writer, author;autor
+brother, [pl] siblings;hermano
+known, well-known;conocido
+to prefer;preferir
+to assure, secure, insure;asegurar
+function, meeting;función
+up above;arriba
+serious;serio
+cause;causa
+sufficient, enough;suficiente
+serious, solemn;grave
+decision;decisión
+music;música
+strange, foreign;extraño
+to grow, increase;crecer
+to appear, spring (forth);surgir
+you (subj-sg/+fam);tú
+expression;expresión
+about, around, round;alrededor
+to kill;matar
+to deliver;entregar
+river;río
+security, safety;seguridad
+term (language), end;término
+to place, position;colocar
+meter, subway;metro
+doctor;médico
+to establish;establecer
+to keep, save;guardar
+art, skill;arte
+to initiate, start;iniciar
+to come down, let down;bajar
+consequence;consecuencia
+to notice;notar
+act, action;acto
+to put (into);meter
+absolute;absoluto
+pena;trouble; valer la pena: be of worth
+to act;actuar
+height, altitude;altura
+desire, wish;deseo
+precisely;precisamente
+teenager, young person;joven
+twenty;veinte
+dream, sleep;sueño
+to attempt;pretender
+task, job;tarea
+letter, (playing) card;carta
+hardly, barely;apenas
+property;propiedad
+product;producto
+personal;personal
+simply, just;simplemente
+impossible;imposible
+pleasure, taste, preference;gusto
+help, aid;ayuda
+to remember, remind;acordar
+language, tongue, strip (of land);lengua
+to cut;cortar
+plan;plan
+to correspond with;corresponder
+return, turn;vuelta
+to break;romper
+even (if);siquiera
+to acquire, get;adquirir
+project, plan;proyecto
+memory;memoria
+origin, cause;origen
+element;elemento
+English;inglés
+market;mercado
+course, direction;curso
+to throw, launch;lanzar
+to take advantage of;aprovechar
+blood;sangre
+interior, inside;interior
+hard;duro
+to support, lean on;apoyar
+to deny, refuse;negar
+to advance, progress;avanzar
+use;uso
+arm;brazo
+professor, teacher;profesor
+to resolve, settle, work out;resolver
+future;futuro
+opportunity, chance;oportunidad
+half, middle;mitad
+to cost, be hard;costar
+rich, tasty;rico
+memory, keepsake;recuerdo
+total, entire;total
+to demand;exigir
+down, below, downward;abajo
+opinion, view;opinión
+to increase;aumentar
+to pick up;recoger
+mouth, entrance, opening;boca
+direction, address;dirección
+pure, clean;puro
+to abandon, leave (a place);abandonar
+piece, part;pieza
+professional;profesional
+to impose, enforce;imponer
+to obligate, force;obligar
+physical;físico
+attitude;actitud
+sea;mar
+French;francés
+entrance, admission ticket;entrada
+contact;contacto
+heart, core;corazón
+to apply;aplicar
+capital;capital; city (f), money (m)
+quick, fast;rápido
+title, heading;título
+to belong;pertenecer
+room, chamber;cuarto
+material, element;material
+hit, strike, punch;golpe
+to have means, dispose;disponer
+communication;comunicación
+to express;expresar
+simple, mere, simple-minded;simple
+totally, completely;totalmente
+to cause, provoke;provocar
+normal, usual, regular;normal
+to defend, protect;defender
+illness, sickness;enfermedad
+goods, property, benefit;bien
+matter, subject;materia
+to remove, take away;quitar
+to conserve, preserve;conservar
+modern;moderno
+place, space;sitio
+to depend on;depender
+nature, character;naturaleza
+capacity;capacidad
+current;actual
+to mark, note, dial;marcar
+distance;distancia
+complete, full;pleno
+closed;cerrado
+to share;compartir
+information;información
+environment, atmosphere;ambiente
+especially;especialmente
+development;desarrollo
+sun;sol
+dead;muerto
+to consist of;consistir
+to constitute, consist of;constituir
+willing, ready;dispuesto
+to cover;cubrir
+to work, function;funcionar
+companion, classmate;compañero
+exit, escape, outcome;salida
+to fit (into);caber
+conscience, consciousness;conciencia
+to serve, attend to;atender
+ill, sick;enfermo
+to insist on;insistir
+habit, custom, usage;costumbre
+behind;detrás
+peace;paz
+news;noticia
+circumstance;circunstancia
+pain, ache, sorrow;dolor
+private;privado
+style;estilo
+price, cost, value;precio
+popular;popular
+to sit (down), seat;sentar
+plant, floor;planta
+character (e.g. movie);personaje
+famous, well-known;famoso
+success;éxito
+daughter;hija
+to deserve, be worthy (of);merecer
+building;edificio
+authority;autoridad
+stone, rock;piedra
+to include;incluir
+group, set;conjunto
+thirty;treinta
+how much?;cuánto
+immediate;inmediato
+luck, fortune;suerte
+to cross;cruzar
+to tend to, lay out;tender
+finally, at last;finalmente
+together;junto
+to announce, advertise;anunciar
+spirit, ghost;espíritu
+member, limb;miembro
+direct, straight;directo
+to wake (up), arouse;despertar
+resource, recourse, means;recurso
+(interior) wall;pared
+team, equipment, outfit;equipo
+error, mistake;error
+precise, necessary;preciso
+different, several, diverse;diverso
+difficulty, obstacle;dificultad
+to comment on;comentar
+to publish;publicar
+familiar, of the family;familiar
+will, willpower, intention;voluntad
+meeting, reunion;reunión
+model, pattern;modelo
+to load (up), carry;cargar
+date, day;fecha
+to participate;participar
+to prevent, hinder;impedir
+intention, purpose;propósito
+to save, rescue;salvar
+care, carefulness;cuidado
+job, place, position;puesto
+degree, grade;grado
+to escape;escapar
+fight, struggle, wrestle;lucha
+to throw, pull;tirar
+entire, whole, complete;entero
+leader, boss, manager;jefe
+interesting;interesante
+wide, ample, broad;amplio
+to answer, reply;contestar
+newspaper, periodical;periódico
+to worry;preocupar
+to lend;prestar
+par;pair, couple (m); a la par: at same time
+public, audience;público
+to weigh;pesar
+final;final
+quality;calidad
+to expound, expose;exponer
+civil;civil
+science, knowledge;ciencia
+size, dimension;tamaño
+but, however;mas
+doctor;doctor
+painting, picture;cuadro
+horse;caballo
+responsibility;responsabilidad
+fifty;cincuenta
+internal;interno
+detail;detalle
+march, progress;marcha
+nine;nueve
+meat, flesh;carne
+never;jamás
+thought, thinking;pensamiento
+to travel;viajar
+position, charge, fee;cargo
+to separate;separar
+saint (f);santa
+construction;construcción
+judgment;juicio
+ground, earth, terrain;terreno
+floor, story;piso
+company;compañía
+to return (to a place);regresar
+text;texto
+fuente;source; fountain
+present;presente
+definitive, conclusive;definitivo
+magazine, journal;revista
+hope;esperanza
+machine;máquina
+to contemplate;contemplar
+to travel, cover (distance);recorrer
+phrase;frase
+perfect;perfecto
+room, hall;sala
+to last;durar
+instrument;instrumento
+over there (n);aquello pron
+defense, plea;defensa
+director, manager, principal;director
+to take away, retire;retirar
+explanation;explicación
+article, product, item;artículo
+underneath, below;debajo
+to stay, remain;permanecer
+to attend;asistir
+twelve;doce
+radio;radio; set (m), communication (f)
+to organize;organizar
+movie, film;película
+election, choice;elección
+visit, visitor, guest;visita
+to contain;contener
+support, backing;apoyo
+president;presidente
+weapon;arma
+tree;árbol
+to visit;visitar
+to inform;informar
+meeting, game, skirmish;encuentro
+similar;parecido
+current, flow;corriente
+reading;lectura
+existence, life;existencia
+language, speech;lenguaje
+to send;enviar
+even (though), still;aun
+destination, destiny;destino
+education;educación
+to take care of;cuidar
+to intervene;intervenir
+operation;operación
+strange, rare, scarce;raro
+perfectly;perfectamente
+to extend, spread;extender
+to verify, prove;comprobar
+note, grade;nota
+particular, peculiar;particular
+that one (m), [ésa (f)];ése
+military;militar
+to sleep;dormir
+united;unido
+to argue, discuss;discutir
+extraordinary, exceptional;extraordinario
+theater, drama;teatro
+to confront, face;enfrentar
+recently, just;recién
+business, transaction;negocio
+letter, handwriting, lyrics;letra
+worse;peor
+feeling, sentiment;sentimiento
+to lead, drive;conducir
+completely;completamente
+to sign;firmar
+solution, answer;solución
+mine;mío
+food, meal;comida
+impression, printing;impresión
+plane, map, level;plano
+intention;intención
+rhythm;ritmo
+green;verde
+exact, faithful, true;exacto
+to respect;respetar
+(financial) bank, bench;banco
+immediately;inmediatamente
+to support, hold up;sostener
+skin, hide, fur;piel
+(in) front (of), ahead;delante
+religious;religioso
+to notice, warn;advertir
+dark, obscure;oscuro
+control;control
+investigation;investigación
+to transform, change;transformar
+conversation;conversación
+summer;verano
+respect, regard;respeto
+north;norte
+by means of;mediante
+fourth;cuarto
+tradition;tradición
+to be sufficient;bastar
+population;población
+couple, pair;pareja
+past;pasado
+newspaper;diario
+blue;azúl
+to mention, cite;mencionar
+generation;generación
+cold;frío
+vision;visión
+concrete, real;concreto
+to propose, present;plantear
+to test, prove, try;probar
+right, straight;derecho
+danger, menace;peligro
+gold;oro
+just;justo
+to drive, handle;manejar
+wine;vino
+to unite, join (together);unir
+to walk;caminar
+to coincide, agree;coincidir
+stage, period;etapa
+simple, plain, easy;sencillo
+silence;silencio
+except (for), but;salvo
+to fill;llenar
+to dominate, master;dominar
+determined, fixed;determinado
+artist, performer;artista
+to measure;medir
+labor, work, task;labor
+lost;perdido
+sky, heaven, ceiling;cielo
+practice, skill;práctica
+limit;límite
+mass, dough, bulk, crowd;masa
+directly, straight away;directamente
+to cross;atravesar
+formation, education;formación
+dog;perro
+left;izquierda
+to emphasize, stand out;destacar
+near;cercano
+forty;cuarenta
+to pronounce;pronunciar
+to distinguish;distinguir
+energy, power;energía
+confidence, trust;confianza
+adequate, suitable;adecuado
+to introduce, bring in;introducir
+flower;flor
+wife;esposa
+to communicate;comunicar
+Italian;italiano
+to invite;invitar
+responsible;responsable
+happy, fortunate;feliz
+revolution;revolución
+to install;instalar
+to delay, take long;tardar
+to improve, get better;mejorar
+teacher (m), master;maestro
+to employ;emplear
+German;alemán
+to be agreeable, be convenient;convenir
+to recuperate, recover;recuperar
+phenomenon;fenómeno
+pressure;presión
+given;dado
+student, pupil;alumno
+theory;teoría
+probably;probablemente
+tone;tono
+health;salud
+to define;definir
+to overcome, surpass;superar
+Mrs., lady, madam;señora
+exactly;exactamente
+to assert, affirm;afirmar
+daily;diario
+historical;histórico
+debido a: due to;debido
+vía;por vía: by means; road, way
+to interpret;interpretar
+soul;alma
+to admit;admitir
+to identify;identificar
+wood;madera
+party, feast;fiesta
+heat, warmth;calor
+minimum;mínimo
+to affect;afectar
+home, hearth;hogar
+mind;mente
+surely, securely;seguramente
+worry, concern;preocupación
+to reduce;reducir
+concept;concepto
+to ride, mount, assemble;montar
+phone, telephone;teléfono
+sheet, leaf;hoja
+to stop (moving);parar
+double;doble
+to return, give back;devolver
+to practice, exercise;ejercer
+to possess, own;poseer
+to protect;proteger
+to cause, bring about;causar
+rapidly, quickly;rápidamente
+to determine, decide;determinar
+strong;fuerte
+writer;escritor
+attempt, try;intento
+to charge (money);cobrar
+rule, ruler, regulation;regla
+to divide;dividir
+risk;riesgo
+police, police force, police officer;policía
+to invent, make up;inventar
+student;estudiante
+square, marketplace;plaza
+to limit;limitar
+call, knock;llamada
+sensation, feeling;sensación
+enemy;enemigo
+unit, unity;unidad
+to fight, wrestle;luchar
+(specific) language;idioma
+root;raíz
+compromise, engagement;compromiso
+remark, comment;comentario
+load, charge, cargo;carga
+husband;marido
+fifteen;quince
+constant;constante
+right, right hand;derecha
+edge, border, end;extremo
+individual, person;individuo
+contents, content;contenido
+similar, such, alike;semejante
+obligation;obligación
+court (f), cut (m);corte
+foreign, alien;extranjero
+(sum) total;total
+to attend, go to, frequent;acudir
+harm, injury, damage;daño
+late;tarde
+message;mensaje
+to analyze;analizar
+list, roster, roll;lista
+region;región
+evident, obvious;evidente
+child, young girl;niña
+blame, fault;culpa
+to entrust, [se] take charge of;encargar
+discussion, argument;discusión
+hair;pelo
+to assign, appoint;destinar
+to compare;comparar
+to celebrate;celebrar
+faith;fe
+fixed, steady;fijo
+central;central
+reference, allusion;referencia
+south;sur
+gesture;gesto
+perspective;perspectiva
+prepared;preparado
+to sound, ring;sonar
+to express, show;manifestar
+to control;controlar
+to jump, leap, hop;saltar
+by chance, maybe;acaso
+(high) school, college;colegio
+immense, vast, huge;inmenso
+sale;venta
+document;documento
+to cite, quote;citar
+TV, television;televisión
+boy;chico
+novel;novela
+to require;requerir
+moral;moral
+reach, scope;alcance
+curious, strange;curioso
+crisis;crisis
+fundamental;fundamental
+to incorporate, include;incorporar
+present, current;presente
+maximum;máximo
+literature;literatura
+battle;batalla
+european;europeo
+owner, landlord (m);dueño
+to persecute, pursue, chase;perseguir
+neighbor;vecino
+sector, area, section;sector
+painting, paint;pintura
+accident, irregularity;accidente
+official, authorized;oficial
+to try, seek;procurar
+numerous;numeroso
+influence;influencia
+intellectual;intelectual
+employee;empleado
+to marry;casar
+practically;prácticamente
+coins, currency;moneda
+ease, facility;facilidad
+marriage, married couple;matrimonio
+scarce, very little;escaso
+church;iglesia
+yesterday;ayer
+office;oficina
+Christian;cristiano
+institution;institución
+to subject;someter
+to found, base;fundar
+safe, sure, secure;seguro
+intense, acute;intenso
+Sunday;domingo
+reaction;reacción
+to elevate, raise;elevar
+to sing;cantar
+event, happening;acontecimiento
+coast;costa
+dangerous;peligroso
+slow;lento
+method;método
+community;comunidad
+car, carriage;coche
+to assume, take on;asumir
+to clarify, clear up;aclarar
+to drag, pull;arrastrar
+page;página
+to declare, testify;declarar
+frequency;frecuencia
+conclusion, end;conclusión
+scene, stage, setting;escena
+false;falso
+structure;estructura
+benefit, profit;beneficio
+food, nourishment;alimento
+calm, tranquil, relaxed;tranquilo
+speed, velocity;velocidad
+neighborhood, district;barrio
+to name, appoint;nombrar
+analysis;análisis
+to confuse;confundir
+border, frontier;frontera
+to describe;describir
+distant;lejano
+brief, short;breve
+fear;temor
+to calculate, figure out;calcular
+to conform;conformar
+attack, raid;ataque
+to paint;pintar
+cinema, US movie theater;cine
+branch, bough, limb;rama
+to divide, deliver, distribute;repartir
+start, beginning;comienzo
+exterior, outside;exterior
+boat, ship;barco
+game, match, departure;partida
+to find (out);hallar
+to put in order, organize;ordenar
+apparatus, device;aparato
+to convince, persuade;convencer
+medical;médico
+foreigner;extranjero
+camera, chamber;cámara
+creation;creación
+to surround;rodear
+not belonging to, detached;ajeno
+to reflect;reflejar
+desire;gana
+dry, arid;seco
+fifth;quinto
+fashion, form;moda
+absolutely, completely;absolutamente
+to reject;rechazar
+to contribute;contribuir
+noise;ruido
+bed (furniture);cama
+of children, childlike, infantile;infantil
+technique, skill;técnica
+advice, council, counsel;consejo
+international;internacional
+violence;violencia
+original;original
+sound;sonido
+to overcome, conquer;vencer
+star;estrella
+useful;útil
+to move away;alejar
+gaze, look;mirada
+tremendous, dreadful, huge;tremendo
+when?;cuándo
+early;temprano
+leg;pierna
+to transmit, broadcast;transmitir
+to go, leave, march;marchar
+hunger, starvation;hambre
+pleasure;placer
+profession, occupation;profesión
+to destroy, ruin;destruir
+separate;separado
+to think, be of the opinion;opinar
+objective;objetivo
+honor, honesty;honor
+mountain;montaña
+to commit;cometer
+logical;lógico
+instant, moment;instante
+wind, scent;viento
+rain;lluvia
+army;ejército
+to move, transfer;trasladar
+train, convoy;tren
+to conclude, finish;concluir
+circle, club;círculo
+authentic;auténtico
+beautiful, lovely;hermoso
+to oppose;oponer
+advantage, benefit;ventaja
+to appear, represent, figure (in);figurar
+terrible;terrible
+island;isla
+en torno a: about, regarding;torno
+seated;sentado
+friendship;amistad
+to concentrate;concentrar
+correct, suitable;correcto
+tomorrow;mañana
+chain;cadena
+politician;político
+king;rey
+permanent;permanente
+zest, spirit, heart;ánimo
+treatment, manner, agreement;trato
+exercise, practice;ejercicio
+organization;organización
+August;agosto
+secretary;secretario
+North American;norteamericano
+to be unaware;ignorar
+finger, toe, digit;dedo
+expense, expenditure;gasto
+coffee, café;café
+dialogue, conversation;diálogo
+to (have) doubt;dudar
+commercial, shopping;comercial
+lecture, discourse, talk;discurso
+obliged, required;obligado
+sister;hermana
+to rest;descansar
+bank, box, safe;caja
+judge;juez
+particular, detail, individual;particular
+American;americano
+poet;poeta
+surprise;sorpresa
+window;ventana
+characteristic, aspect;característica
+to adopt;adopter
+to start (machine), uproot;arrancar
+to enjoy;disfrutar
+practical, skillful;práctico
+sum, amount, summary;suma
+to bother, disturb, upset;molestar
+excellent;excelente
+volume;volumen
+station, season;estación
+to dare;atrever
+cultural;cultural
+complex, complicated;complejo
+argument, plot;argumento
+category;categoría
+silver, money;plata
+conflict;conflicto
+plane, airplane, aircraft;avión
+weak;débil
+clothes, clothing;ropa
+examination, exam;examen
+inhabitant;habitante
+about, concerning;acerca
+to give way, yield;ceder
+justice, fairness;justicia
+independent, self-sufficient;independiente
+criterion;criterio
+to attract;atraer
+convinced, persuaded;convencido
+deadline, installment;plazo
+aware of, pending;pendiente
+kilometer;kilómetro
+hospital;hospital
+satisfaction;satisfacción
+to accumulate, amass;acumular
+unknown;desconocido
+to practice;practicar
+to enjoy;gozar
+great many, great amount;muchísimo
+sixty;sesenta
+chair, seat;silla
+to justify, excuse;justificar
+traditional;tradicional
+to endure, stand (something);soportar
+youth;juventud
+to resist, endure;resistir
+apart, aside, separately;aparte
+sad, unhappy;triste
+access, entry;acceso
+frame, mark, setting;marco
+to wear, dress;vestir
+press;prensa
+exception;excepción
+to surprise;sorprender
+absence;ausencia
+to proceed, start;proceder
+to convict, condemn;condenar
+shade, shadow;sombra
+similar;similar
+to consume, take in;consumir
+to suggest, hint at;sugerir
+active;activo
+classic;clásico
+depth, profundity;profundidad
+to grant, concede;conceder
+recent;reciente
+electric;eléctrico
+milk;leche
+consideration, regard;consideración
+to compose, be part of;componer
+prize, reward;premio
+beautiful, fine;bello
+birth, origin;nacimiento
+winter;invierno
+December;diciembre
+brilliant, shiny, sparkling;brillante
+behavior, conduct;comportamiento
+criticism, critique;crítica
+feminine, female;femenino
+fire, gunfire;fuego
+tendency, style;tendencia
+fine, delicate;fino
+standard, pattern, norm;norma
+lower, inferior;inferior
+to fix, arrange;arreglar
+wheel;rueda
+bridge;puente
+to cheer up;animar
+feature, trait;rasgo
+positive;positivo
+story, tale;cuento
+definitely, finally;definitivamente
+sign, mark, symbol;signo
+sign, mark, token;señal
+to point, note, aim;apuntar
+campaign;campaña
+to free, liberate;liberar
+port, harbor;puerto
+profoundly, deeply;profundamente
+adventure;aventura
+heavy, boring, tiresome;pesado
+complicated, complex;complicado
+to add;añadir
+mark, brand, trademark;marca
+to rotate, revolve;girar
+illusion, hope, dream;ilusión
+you (obj-pl/+fam);os
+shopping, buy, purchase;compra
+intelligence;inteligencia
+to fly;volar
+crazy, insane;loco
+virtue, quality;virtud
+alternative, cure, solution;remedio
+delicate;delicado
+to facilitate;facilitar
+territory;territorio
+faculty, ability;facultad
+to solicit, request;solicitar
+photograph;fotografía
+roof;techo
+to fear;temer
+conduct, behavior;conducta
+violent;violento
+one over there (m);aquél pron
+jump, hop, skip;salto
+bread;pan
+to attack;atacar
+healthy, wholesome;sano
+to hit, stick (on);pegar
+to judge;juzgar
+clean;limpio
+disposal, disposition;disposición
+rear, backside;posterior
+discipline, subject;disciplina
+related, regarding;relacionado
+usual, habitual, customary;habitual
+personnel, staff, staffing;personal
+to interrupt;interrumpir
+column, spine;columna
+truly;verdaderamente
+to manufacture;fabricar
+only;únicamente
+nervous, uptight;nervioso
+Indian;indio
+cat;gato
+edge, margin, border, brink;margen
+material;material
+resistance, opposition;resistencia
+conscious, aware;consciente
+loss;pérdida
+treatment, processing;tratamiento
+interview, meeting;entrevista
+spectacle, show;espectáculo
+personality, celebrity;personalidad
+May;mayo
+to trust, confide;confiar
+to operate;operar
+representation;representación
+regime, diet;régimen
+tip, point;punta
+vital, lively, essential;vital
+joy, happiness;alegría
+to base on, base upon;basar
+equally;igualmente
+mission, task;misión
+to estimate, hold in esteem;estimar
+daily;cotidiano
+to confirm;confirmar
+work, job, occupation;empleo
+previous;previo
+participation, involvement;participación
+to integrate, fit in;integrar
+period, time;período
+search, hunt;busca
+surface, area;superficie
+to pass (test), approve;aprobar
+Chinese;chino
+passion, desire;pasión
+vehicle, car;vehículo
+intelligent;inteligente
+to record, engrave;grabar
+January;enero
+chapter;capítulo
+failure, collapse;fracaso
+expert;experto
+restlessness, anxiety;inquietud
+anew, again;nuevamente
+eleven;once
+ready, clever, smart;listo
+to be wrong;equivocar
+organization, organism, (human) body;organismo
+song;canción
+religion;religión
+corresponding;correspondiente
+department, apartment;departamento
+generally, usually;generalmente
+journalist;periodista
+in a row, successive;seguido
+to cry;llorar
+Greek;griego
+interpretation, interpreting;interpretación
+master;maestro
+inexpensive;barato
+to project;proyectar
+beauty;belleza
+university, college;universidad
+riches, wealth;riqueza
+outstanding, noteworthy;notable
+to drink;beber
+clearly;claramente
+moment, while, time;rato
+in charge of;encargado
+technical;técnico
+blind;ciego
+individual;individual
+to appreciate;apreciar
+to experience, experiment;experimentar
+just, exactly;justamente
+to love;amar
+balance;equilibrio
+universal;universal
+oh;ah
+fruit, result;fruto
+representative;representante
+to rob, steal;robar
+to laugh (at);reír
+literary;literario
+excess;exceso
+layer, coat;capa
+defect;defecto
+factory, manufacture;fábrica
+back (body);espalda
+to mix;mezclar
+sort, gender, genre;género
+continuous;continuo
+to distribute, deliver;distribuir
+economy, economics, thriftiness;economía
+to move away, separate;apartar
+forest;bosque
+to demand, require;reclamar
+landscape;paisaje
+to burn;quemar
+call, calling;llamado
+patient;paciente
+elevated, high, lofty;elevado
+to obey;obedecer
+tension, stress, strain;tensión
+established;establecido
+local;local
+to satisfy;satisfacer
+to conceive, understand;concebir
+(government) secretary, minister;ministro
+impulse, momentum;impulso
+to react;reaccionar
+commerce, trade;comercio
+naturally;naturalmente
+to accuse;acusar
+wait;espera
+to spend (money);gastar
+reservation, reserve;reserva
+to give (as a gift);regalar
+competition, contest;competencia
+to complain;quejar
+to penetrate, come in;penetrar
+empty, vacant;vacío
+isolated;aislado
+rendir;[se] to give in; to render
+observation;observación
+to register, record;registrar
+to clean;limpiar
+emptiness, void;vacío
+to attribute;atribuir
+figure, number, amount;cifra
+to hide;ocultar
+scale, ladder, rank;escala
+to find out [se];enterar
+procedure, proceedings;procedimiento
+to adjust, tighten;ajustar
+formula;fórmula
+sphere, space;ámbito
+report;informe
+dimension, size;dimensión
+client, customer;cliente
+protest, manifestation;manifestación
+to aspire, want;aspirar
+pico;y pico: and a bit; beak, peak
+sensitivity;sensibilidad
+to resort to;recurrir
+multiple, many;múltiple
+return;regreso
+temperature;temperatura
+July;julio
+powerful;poderoso
+worthy;digno
+bomb, explosion, pump;bomba
+organ;órgano
+useless;inútil
+advance, progress;avance
+humanity, mankind;humanidad
+company, signature, signing;firma
+soldier;soldado
+solid, strong;sólido
+firm, steady;firme
+extreme;extremo
+in agreement;conforme
+essential;esencial
+to flee, run away;huir
+to perceive, notice;percibir
+climate;clima
+emotion, excitement;emoción
+automobile;automóvil
+to occur, take place;transcurrir
+evil;mal
+to recommend;recomendar
+ability, skill, talent;habilidad
+identity;identidad
+misfortune, bad luck;desgracia
+to correct, rectify;corregir
+yellow;amarillo
+to consult;consultar
+duty, obligation;deber
+line, queue, tail;cola
+to suffer;padecer
+progress;progreso
+to make, develop;elaborar
+to dream;soñar
+proof, sample, sign;muestra
+accustomed;acostumbrado
+habit;hábito
+to shout;gritar
+artistic;artístico
+mechanism;mecanismo
+housing, dwelling;vivienda
+busy, occupied;ocupado
+area, zone;área
+to translate;traducir
+in fact, actually, indeed;efectivamente
+(self-) interested;interesado
+mixture, blend;mezcla
+excessive;excesivo
+to add up, amount to;sumar
+to feed, support;alimentar
+room, bedroom, habitat;habitación
+instruction;instrucción
+to eliminate, exclude;eliminar
+version, account;versión
+luxury;lujo
+intervention;intervención
+arrival;llegada
+surrounding area, vicinity;alrededor
+witness;testigo
+power, control;dominio
+race, lineage;raza
+to give up, renounce;renunciar
+discovery;descubrimiento
+vacation;vacaciones
+province, region;provincia
+knowledge;saber
+Argentine;argentino
+comfortable, convenient;cómodo
+to be accustomed to;acostumbrar
+easily;fácilmente
+clearness, clarity;claridad
+negative, pessimistic;negativo
+to check, revise, inspect;revisar
+to be without;carecer
+scientific;científico
+sand;arena
+posture, position, attitude;postura
+hall, room;salón
+stage, setting, scene;escenario
+armed;armado
+largo;a lo largo: throughout; length
+to promise;prometer
+happy, content;contento
+hotel;hotel
+job, occupation, function;oficio
+to descend;descender
+covered;cubierto
+line, row, file;fila
+employer, landlord, patron saint;patrón
+chest, breast;pecho
+shop, store, tent;tienda
+typical;típico
+protection;protección
+civil servant;funcionario
+to reproduce, repeat;reproducir
+to consist of, comprise;constar
+critical;crítico
+transportation, transport;transporte
+network, net, system;red
+fall, drop, falling;caída
+Castilian, Spanish;castellano
+to associate with;asociar
+to not know, not recognize;desconocer
+valley;valle
+to fail, miss;fallar
+flight;vuelo
+nearby, neighboring;vecino
+sex;sexo
+initiative;iniciativa
+incredible, unbelievable;increíble
+concentration, gathering;concentración
+cry, shout, scream;grito
+essence;esencia
+kitchen;cocina
+mental;mental
+reflection;reflejo
+definition;definición
+worried, concerned;preocupado
+to forgive, excuse;perdonar
+no + obstante: nevertheless;obstante
+lawyer;abogado
+to thank for;agradecer
+to admire;admirar
+session, meeting;sesión
+close, intimate;íntimo
+clock, watch;reloj
+narrow;estrecho
+boy;muchacho
+October;octubre
+exhibition, display;exposición
+entrance, admission, income;ingreso
+to reveal, disclose;revelar
+drawing, sketch;dibujo
+frequent;frecuente
+inevitable, unavoidable;inevitable
+bone;hueso
+light (in weight), slight;ligero
+soldier, military person;militar
+engine, motor;motor
+opposition;oposición
+courtyard, playground, yard;patio
+fruit;fruta
+ideal, goal;ideal
+left (opposite of right);izquierdo
+you (obj prep-sg/+fam);ti
+actor;actor
+confusion;confusión
+pretty, nice;bonito
+to add, gather;agregar
+current, common;corriente
+suit, dress, costume;traje
+requirement, demand;exigencia
+victim, casualty;víctima
+beach, seaside;playa
+worker, laborer;trabajador
+primary;primario
+iron;hierro
+ideal;ideal
+to complete;completar
+cloth, fabric;tela
+wide;ancho
+production;producción
+February;febrero
+symbol;símbolo
+nice, pleasant;agradable
+medicine;medicina
+to fight against;combatir
+search;búsqueda
+collective, joint;colectivo
+tranquility, peace;tranquilidad
+mirror, reflection;espejo
+secret;secreto
+understanding;comprensión
+incapable;incapaz
+brain;cerebro
+satisfied;satisfecho
+reduced, limited;reducido
+throw, shot;tiro
+to provide, contribute;aportar
+to derive, come (from);derivar
+grandfather;abuelo
+to prohibit, forbid;prohibir
+to supply;proporcionar
+wonderful, marvelous;maravilloso
+to greet, say hello;saludar
+to relate;relacionar
+declaration, statement;declaración
+relative;relativo
+subject, individual;sujeto
+to investigate;investigar
+to find, locate;ubicar
+teaching, instruction;enseñanza
+musical;musical
+permission, permit;permiso
+evolution, development;evolución
+uncle, guy;tío
+morals, ethics;moral
+round;redondo
+to modify;modificar
+fastened, subject to;sujeto
+park;parque
+engineer;ingeniero
+to wash;lavar
+edge;borde
+to invade, overcome;invadir
+enthusiasm;entusiasmo
+evidently, obviously;evidentemente
+independence;independencia
+lie;mentira
+exclusively;exclusivamente
+salary, pay;sueldo
+to replace, move, shift;desplazar
+comparison;comparación
+seventy;setenta
+Roman;romano
+sacred;sagrado
+breast, bosom, cavity;seno
+to move forward;adelantar
+singing, chant;canto
+power, potential;potencia
+to examine, inspect;examinar
+official, officer;oficial
+fortune, fate;fortuna
+crime, murder;crimen
+soft, gentle, mild;suave
+opposite, contrary;opuesto
+to substitute, replace;sustituir
+citizen;ciudadano
+to implicate, imply;implicar
+bathroom, bath, swim;baño
+wise, learned;sabio
+to join, deposit, admit;ingresar
+to breathe;respirar
+hot, warm, spirited;caliente
+recognition, acknowledgment;reconocimiento
+sexual;sexual
+respective;respectivo
+situated, located;situado
+credit, reputation;crédito
+alternative;alternativa
+surrounded;rodeado
+to hide, conceal;esconder
+channel, canal;canal
+enough;suficientemente
+agent;agente
+payment;pago
+philosophy;filosofía
+to alter, modify;alterar
+reader, lecturer;lector
+to emit, give (off);emitir
+magnificent, splendid;magnífico
+triumph, victory;triunfo
+to bow, tilt, incline;inclinar
+rural;campesino
+Saturday;sábado
+friend;amiga
+highway, road;carretera
+to detach, release, remove;desprender
+effective;efectivo
+victory, triumph;victoria
+to circulate, go around, flow;circular
+to fight, struggle;pelear
+bird;pájaro
+library;biblioteca
+reflection;reflexión
+applied;aplicado
+to advise, counsel;aconsejar
+vocation, calling;vocación
+married;casado
+continent;continente
+severe;severo
+chart, board, table, plank;tabla
+fair, just;justo
+essay, rehearsal;ensayo
+plate, dish;plato
+garden;jardín
+imagination, fantasy;imaginación
+beautiful, precious;precioso
+probable;probable
+poetry, poem;poesía
+guard, watch, lookout;guardia
+privilege;privilegio
+mountain;monte
+with me;conmigo
+to throw, fling;arrojar
+precision;precisión
+sacrifice;sacrificio
+to criticize;criticar
+to sink, submerge;hundir
+thread, yarn, wire;hilo
+understood;entendido
+apparently;aparentemente
+appearance, apparition;aparición
+poem;poema
+advanced;avanzado
+curiosity, quaintness;curiosidad
+outside;afuera
+tooth, cog;diente
+cousin;primo
+to shut (in);encerrar
+Latin;latino
+appearance, aspect;apariencia
+latest news, newness;novedad
+spiritual;espiritual
+limited;limitado
+punishment, penalty;castigo
+constantly;constantemente
+to call, name;denominar
+dressed;vestido
+car, cart;carro
+eternal;eterno
+increase, rise;aumento
+poverty, lack, scarcity;pobreza
+to push, promote, drive;impulsar
+expensive, difficult, dear;caro
+to push, shove;empujar
+dollar;dólar
+initial;inicial
+place, quarters;local
+to dictate, announce;dictar
+sweet;dulce
+to crash into, collide with;chocar
+industry, factory;industria
+gentleman, knight;caballero
+specialist;especialista
+season, period, time;temporada
+divine;divino
+mood, humor;humor
+to erase;borrar
+nation;nación
+happiness;felicidad
+lover;amante
+remote, distant, aloof;alejado
+to endure, put up with;aguantar
+to hold, take, catch;coger
+calculation, calculus;cálculo
+composition, make-up, essay;composición
+speed, velocity;rapidez
+egg;huevo
+elemental, basic;elemental
+growth, increase;crecimiento
+key;clave
+to hit, strike;golpear
+tragedy;tragedia
+collection;colección
+girl, female;chica
+prestige;prestigio
+to ascend, be promoted;ascender
+section, cut;sección
+to complicate, make difficult;complicar
+elderly, aged;anciano
+faithful, loyal;fiel
+broken, torn;roto
+bag, purse, stock exchange;bolsa
+tape, ribbon, film, strip;cinta
+to trick, deceive;engañar
+elegant, smart, stylish;elegante
+to exhaust, wear out, run out;agotar
+neck, collar;cuello
+continuation, follow-up;continuación
+April;abril
+to do exactly, specify;precisar
+performance, acting;actuación
+factor, cause, influence;factor
+corner;esquina
+shoulder;hombro
+infancy, childhood;infancia
+to suspend, hang, fail;suspender
+rest, interval, break;descanso
+to enlarge, increase, expand;ampliar
+shoe;zapato
+opinion, looks;parecer
+relative;familiar
+worth, merit;mérito
+to cultivate, produce;cultivar
+opportune, timely;oportuno
+to explode, exploit;explotar
+significant, meaningful;significativo
+to say goodbye (to), dismiss;despedir
+loose;suelto
+(outer) wall, rampart;muro
+to collaborate, work together;colaborar
+a menudo: often;menudo
+to invest;invertir
+lot of, heap, pile;montón
+revolutionary;revolucionario
+disc, disk, record;disco
+indispensable, essential;indispensable
+petition, request, demand;demanda
+worldwide;mundial
+(piece of) furniture;mueble
+disaster;desastre
+eastern, oriental;oriental
+regular;regular
+anguish, distress;angustia
+to come from, be from;provenir
+to force;forzar
+domestic;doméstico
+cloud;nube
+to bring up, rear;criar
+misery, wretchedness;miseria
+personally;personalmente
+worse, worst;peor
+meaning;significado
+reputation, fame;fama
+palace;palacio
+hearing, ear;oído
+convenient;conveniente
+dust, powder;polvo
+to confess, admit;confesar
+mechanical;mecánico
+priest;sacerdote
+slowly;lentamente
+effective;eficaz
+lesson;lección
+rose;rosa
+nocturnal, evening;nocturno
+possibly;posiblemente
+to bend, turn;doblar
+to decrease, diminish;disminuir
+to investigate, find out;averiguar
+to suspect, suppose;sospechar
+to go for a walk, ride;pasear
+smell, odor, fragrance;olor
+radical;radical
+determined, resolute;decidido
+contract, agreement;contrato
+presentation, introduction;presentación
+jail, prison;cárcel
+division;división
+al revés: backwards, upside down, inside out;revés
+dirty, filthy, underhanded;sucio
+to deposit, place, store;depositar
+to capture, attract;captar
+quality, attribute;cualidad
+[se] to insist on;empeñar
+to survive, outlive;sobrevivir
+index, forefinger;índice
+wild, savage, uncultivated;salvaje
+March;marzo
+atmosphere, environment;atmósfera
+planet;planeta
+industrial;industrial
+pride;orgullo
+(working) day, shift;jornada
+nude, naked;desnudo
+dear, beloved;querido
+absurd;absurdo
+dramatic;dramático
+stick, pole;palo
+design;diseño
+liberal;liberal
+logic;lógica
+inheritance, legacy;herencia
+legal;legal
+artificial;artificial
+sport;deporte
+queen;reina
+flag;bandera
+to (have) influence;influir
+wonder, marvel;maravilla
+modest, humble;modesto
+(musical) band, sash;banda
+glass, crystal, window;cristal
+objective, impartial;objetivo
+anecdote;anécdota
+university;universitario
+sensitive, sentient;sensible
+legend;leyenda
+dead person;muerto
+sugar;azúcar
+to multiply;multiplicar
+slope, incline, tendency;inclinación
+formal, polite;formal
+to hurt;doler
+primitive;primitivo
+hidden, occult;oculto
+face, countenance;rostro
+separation;separación
+echo, response;eco
+definite;definido
+to favor, help;favorecer
+appointment, date, quotation;cita
+present (time);actualidad
+external, outward;externo
+to choose;escoger
+to hang (up);colgar
+fantasy, fancy;fantasía
+promise;promesa
+leg, paw;pata
+to rain;llover
+photo, picture;foto
+administration;administración
+to absorb, soak up;absorber
+civilization;civilización
+organized;organizado
+occupation, use;ocupación
+mere;mero
+seat, chair;asiento
+composite, mixed;compuesto
+to imitate, copy, mimic;imitar
+solitary, lonely;solitario
+clue, track, trace;pista
+testimony, evidence;testimonio
+gift, present;regalo
+to educate;educar
+to compromise;comprometer
+to come near, closer;aproximar
+to dance;bailar
+to inspire, inhale;inspirar
+contradiction;contradicción
+to grasp, catch;agarrar
+metal;metal
+oil;aceite
+to extend, prolong;prolongar
+code;código
+strict, rigorous;estricto
+painful;doloroso
+union;unión
+extension, area, expanse;extensión
+duro (money);duro
+inside;adentro
+identical;idéntico
+foreseen, planned;previsto
+to adapt;adaptar
+male, man;varón
+to situate, place, locate;situar
+characteristic;característico
+evidence, certainty;evidencia
+dignity;dignidad
+scandal;escándalo
+colleague;colega
+schedule, timetable;horario
+shore, edge;orilla
+to cure;curar
+copy;copia
+trace, track, footstep;huella
+to carry out, fulfill;desempeñar
+copy, issue;ejemplar
+to extract, take out;extraer
+priest (m), cure (f);cura
+to turn off, extinguish;apagar
+to foresee, anticipate, forecast;prever
+guarantee, warranty;garantía
+(drinking) glass, vase;vaso
+profile, outline;perfil
+proportion;proporción
+to expel, throw out;expulsar
+ceremony;ceremonia
+glass, pane;vidrio
+route;ruta
+advertisement, announcement;anuncio
+thirteen;trece
+loneliness, solitude;soledad
+thesis, exposition;tesis
+corner, nook;rincón
+nose;nariz
+eighty;ochenta
+pocket;bolsillo
+to exhibit, show off;exhibir
+association;asociación
+cool, healthy, fresh;fresco
+command, authority;mando
+taste, flavor, sensation;sabor
+decade;década
+preparation, training;preparación
+to cover, wrap;tapar
+to consent, agree, accede;acceder
+attractive;atractivo
+affection, fondness;afecto
+to turn on;encender
+objection, protest;protesta
+native land, fatherland;patria
+consumption;consumo
+Catholic;católico
+forest, jungle;selva
+debt;deuda
+horizon;horizonte
+to shoot (at);disparar
+masculine, manly, male;masculino
+talent, skill;talento
+gas;gas
+tea;té
+glory, fame;gloria
+tired, tiresome;cansado
+November;noviembre
+candidate;candidato
+key, faucet, wrench;llave
+inconvenience, drawback;inconveniente
+eagerness, zeal, effort;afán
+to tie (up);atar
+etcetera;etcétera
+commission, committee;comisión
+desperate, hopeless;desesperado
+to generate;generar
+possession;posesión
+lady, dame;dama
+wave, ripple;onda
+bottle, flask;botella
+tower;torre
+to encompass, comprise;abarcar
+combination;combinación
+corpse, body;cadáver
+package, packet;paquete
+last name;apellido
+fallen;caído
+Japanese;japonés
+to offer;brindar
+conference, lecture;conferencia
+spontaneous;espontáneo
+proposal, proposition;propuesta
+intensity, force;intensidad
+explosion;explosión
+urban, city, urbane;urbano
+hatred;odio
+valuable, precious;valioso
+universe;universo
+sharp, acute;agudo
+miracle;milagro
+delivery;entrega
+de + repente: suddenly;repente
+to solve, settle;solucionar
+map;mapa
+hero;héroe
+monday;lunes
+traffic, trade;tráfico
+terror, horror;terror
+chance, coincidence;casualidad
+stupid, dumb;tonto
+laugh, chuckle;risa
+cord, rope;cuerda
+consultation, advice;consulta
+edition, publication;edición
+to be/make comfortable;acomodar
+ray, beam, lightning;rayo
+square;cuadrado
+aunt;tía
+adult, grown-up;adulto
+vote;voto
+calm, lull;calma
+surprising, astonishing;sorprendente
+favorable, suitable;favorable
+offer, bid, supply;oferta
+embarrassment;vergüenza
+bird;ave
+knee;rodilla
+walk, ride;paseo
+to change, vary;variar
+guilty;culpable
+normally;normalmente
+secondary;secundario
+register, record;registro
+infinite;infinito
+valid;válido
+fat, thick;gordo
+painter;pintor
+crime, offense;delito
+dress;vestido
+tale, story;relato
+dance, ball;baile
+mystery;misterio
+to give, grant, award;otorgar
+cycle;ciclo
+principally, mainly;principalmente
+to cease, stop;cesar
+symptom;síntoma
+threat;amenaza
+here, around here;acá
+journey, itinerary, route;recorrido
+conception;concepción
+sadness;tristeza
+cow;vaca
+creature, child;criatura
+belief;creencia
+unpleasant;desagradable
+nucleus, core;núcleo
+to threaten;amenazar
+forgiveness, pardon;perdón
+dawn, daybreak;madrugada
+aggressive;agresivo
+worker, laborer;obrero
+stopped, standing;parado
+to be/make quiet;callar
+love, affection;cariño
+to watch over, guard;vigilar
+angel;ángel
+harshness, rigor;rigor
+guide, show the way;orientar
+contrast;contraste
+turno;turn, shift; en turno a: around
+exclusive;exclusivo
+to behave [se], carry;portar
+kingdom, reign;reino
+approximately;aproximadamente
+prohibited;prohibido
+functioning, operation;funcionamiento
+auto, car;auto
+wing, flank;ala
+debate;debate
+thick;grueso
+laboratory;laboratorio
+urgent;urgente
+salesperson;vendedor
+cup, glass, top (tree);copa
+to inform, announce;avisar
+to renew, renovate;renovar
+treaty, treatise;tratado
+democratic;democrático
+to release, loosen, let out;soltar
+to board, get in/on;abordar
+to punish;castigar
+rejection, refusal;rechazo
+whole, totality;totalidad
+to fail, to be unsuccessful;fracasar
+fourteen;catorce
+to grade, rate, qualify;calificar
+to bring together;juntar
+dad;papá
+necessarily;necesariamente
+considerable;considerable
+zero, naught, nil;cero
+to execute, carry out;ejecutar
+mom;mamá
+candle, sail, vigil;vela
+to protest, object;protestar
+establishment;establecimiento
+gray, gloomy;gris
+shade, tint, nuance;matiz
+to impress;impresionar
+goal, aim, purpose;meta
+to behave;comportar
+basic, essential;básico
+comfort, convenience;comodidad
+relative;pariente
+abandoned;abandonado
+distribution;distribución
+invitation;invitación
+destruction;destrucción
+indigenous, native;indígena
+dark, brown;moreno
+happy, lively, cheerful;alegre
+option, choice;opción
+extensive, large;extenso
+Russian;ruso
+card;tarjeta
+phase, stage;fase
+twenty-five;veinticinco
+troops, forces;tropa
+remote, far-off;remoto
+member, partner;socio
+communist;comunista
+abundant, plentiful;abundante
+to draw, sketch;dibujar
+guide, leader;guía
+Jewish;judío
+impressive, astonishing;impresionante
+ice;hielo
+to govern;gobernar
+occidental, western;occidental
+to undo, destroy, take apart;deshacer
+spring, spring-like;primavera
+mutual;mutuo
+sympathy, affinity;simpatía
+to reconstruct;reconstruir
+centimeter;centímetro
+screen, monitor;pantalla
+bull;toro
+to denounce;denunciar
+cultivation, crop;cultivo
+horror, atrocity;horror
+wellbeing, welfare;bienestar
+patience;paciencia
+oh no! oh my!;ay
+romantic;romántico
+conviction;convicción
+fully;plenamente
+uniform;uniforme
+media;average; a m.: halfways
+two hundred;doscientos
+to guarantee;garantizar
+female companion;compañera
+painted;pintado
+to combine;combinar
+June;junio
+drama;drama
+distant, far, remote;distante
+simply;sencillamente
+mistaken, wrong;equivocado
+episode, incident;episodio
+to amuse, entertain;divertir
+statement, assertion;afirmación
+to conquer, win (over);conquistar
+(snack) bar, café;bar
+fantastic, unreal;fantástico
+liberation;liberación
+now, at present;actualmente
+to wrap;envolver
+stay, stance, ranch;estancia
+to undertake, embark on;emprender
+to anticipate, advance;anticipar
+humble, modest;humilde
+variety;variedad
+developed, grown;desarrollado
+captain, chief;capitán
+drug;droga
+specific;específico
+workshop, shop;taller
+disorder, mess;desorden
+to break, bend, weaken;quebrar
+locked (up);encerrado
+slave;esclavo
+unfair, unjust;injusto
+successive, following;sucesivo
+extremely, highly;sumamente
+ugly, nasty, rude;feo
+to balance;equilibrar
+to appear, show, stick (out);asomar
+to choose, opt for;optar
+handling, management;manejo
+tear, teardrop;lágrima
+collaboration;colaboración
+proud, arrogant;orgulloso
+angle;ángulo
+impact;impacto
+urgency;urgencia
+exceptional, unusual;excepcional
+creator;creador
+moon;luna
+installation, facilities;instalación
+homage, tribute;homenaje
+ruin, collapse;ruina
+generous;generoso
+academic;académico
+random, chance, hazard;azar
+to break out, explode, start;estallar
+to copy;copiar
+to inaugurate, start;inaugurar
+to squeeze, tighten, compress;apretar
+reasonable;razonable
+wave, billow;ola
+ear;oreja
+grandmother;abuela
+kind, nice, friendly;amable
+courtesy title (f), Mrs.;doña
+rigid, stiff, firm;rígido
+arch, arc, bow;arco
+East;oriente
+direction, course, bearing;rumbo
+performance, execution;ejecución
+to (tell a) lie;mentir
+organized, clean;ordenado
+to hire, contract;contratar
+chaos;caos
+colony, cologne;colonia
+alcohol;alcohol
+appropriate;apropiado
+snow;nieve
+multitude;multitud
+livestock, cattle;ganado
+(alive) fish;pez
+leader;líder
+resolved, determined;resuelto
+club, society;club
+afterwards;posteriormente
+desert;desierto
+writing, scripture;escritura
+Arab;árabe
+dance;danza
+concert, concerto;concierto
+supporter, partisan;partidario
+temple, church;templo
+liquid;líquido
+weakness;debilidad
+ambition;ambición
+madness, insanity;locura
+merchant, businessman;comerciante
+shirt;camisa
+pen, feather;pluma
+ball;pelota
+fare, passage, lane;pasaje
+cleanliness, purity;limpieza
+admiration;admiración
+ghost, phantom;fantasma
+transformation;transformación
+hunting (game);caza
+to keep, retain;retener
+cruel, harsh;cruel
+to turn on, apprehend;prender
+warehouse, store;almacén
+expectation, hope, prospect;expectativa
+break-up, rupture;ruptura
+investment, outlay;inversión
+visible;visible
+wound, injury;herida
+hypothesis;hipótesis
+to formulate;formular
+little bit;poquito
+varied, mixed;variado
+turn, draft, expression;giro
+outline, diagram, plan;esquema
+myth;mito
+darkness;oscuridad
+boarding house;pensión
+disappearance;desaparición
+repeated;repetido
+to smoke;fumar
+wrapped;envuelto
+to specialize, major in;especializar
+lately, recently;últimamente
+to characterize, portray;caracterizar
+parallel;paralelo
+vulgar, ordinary;ordinario
+to designate;designar
+block;bloque
+zipper, closing;cierre
+joke;broma
+friday;viernes
+growing, increasing;creciente
+tomb, grave;tumba
+to compete;competir
+office, study;despacho
+widow;viuda
+pants, trousers;pantalón
+exchange, interchange;intercambio
+stain, spot;mancha
+portrait, photograph;retrato
+(tin) can;lata
+combat, battle, fight;combate
+instance;instancia
+to dry;secar
+rock;roca
+tool;herramienta
+anonymous;anónimo
+panorama, landscape;panorama
+tragic;trágico
+to print;imprimir
+truck, van, tanker;camión
+forgetfulness, omission;olvido
+strategy;estrategia
+girl;muchacha
+to converse, talk;conversar
+advertising, propaganda;propaganda
+to regret;lamentar
+(religious) mass;misa
+to lift, raise;alzar
+beginning, start;inicio
+soccer;fútbol
+sphere, globe;esfera
+to illuminate, light up;iluminar
+architecture;arquitectura
+specialty, specialized field;especialidad
+musician;músico
+relatively;relativamente
+eh;eh
+axis, shaft, crux;eje
+to guide, lead, steer;guiar
+to carry out, cause to happen;efectuar
+abandonment, desertion;abandono
+museum;museo
+owner;propietario
+piece, chunk;trozo
+rigorous, severe;riguroso
+harmony;armonía
+pact, agreement;pacto
+to warm, heat;calentar
+attentive, polite;atento
+selection, choice;selección
+to continue, carry on;proseguir
+uncomfortable;incómodo
+protagonist, main character;protagonista
+railway;ferrocarril
+innocent, naïve;inocente
+fateful, deadly, awful;fatal
+private life, intimacy;intimidad
+in front (of);enfrente
+spacecraft, ship;nave
+prayer;oración
+tiredness, weariness;cansancio
+noble;noble
+hidden;escondido
+fabric, tissue;tejido
+trampa;trick, trap; hacer trampa: to cheat
+deep;hondo
+description;descripción
+sin;pecado
+to tire, annoy;cansar
+funny, amusing;divertido
+injustice;injusticia
+to inherit;heredar
+to liberate, set free;librar
+goodbye;adiós
+to shine, twinkle, be outstanding;brillar
+to rescue, save;rescatar
+tobacco, cigarette, cigar;tabaco
+young, juvenile;juvenil
+absent;ausente
+event, incident;suceso
+to miss, long for;extrañar
+to frighten, scare;asustar
+mid, middle;mediado
+antecedent;antecedente
+barrier, obstacle;barrera
+esthetic;estético
+to annotate, jot, note;anotar
+court;tribunal
+fierce, angry;bravo
+invasion;invasión
+September;septiembre
+dependence, dependency;dependencia
+democracy;democracia
+subtle;sutil
+mature, ripe;maduro
+mixed;mezclado
+to go back to (time);remontar
+limitation;limitación
+pretty, nice, lovely;lindo
+guest;invitado
+fish;pescado
+continuously;continuamente
+obvious;obvio
+strictly;estrictamente
+obstacle;obstáculo
+ambition, aspiration;aspiración
+nice, likeable, friendly;simpático
+broker, corridor, runner;corredor
+exquisite, superb;exquisito
+summary;resumen
+garbage, rubbish;basura
+stairs, ladder;escalera
+seriousness, gravity;gravedad
+foundation, ground;fundamento
+substance, essence;sustancia
+to convene, summon;convocar
+fed up with;harto
+defeat, loss;derrota
+suspicion;sospecha
+exaggerated;exagerado
+strike, protest;huelga
+abuse, misuse;abuso
+thursday;jueves
+arrangement;arreglo
+salt;sal
+dose;dosis
+accent, stress;acento
+warning;aviso
+bow, knot, tie, lasso;lazo
+conservative;conservador
+environment, surroundings;entorno
+grandchild;nieto
+prince;príncipe
+essential, indispensable;imprescindible
+noon, midday;mediodía
+drop;gota
+drawer;cajón
+to generalize, popularize;generalizar
+young woman;señorita
+preference;preferencia
+to inhabit;habitar
+well, shaft;pozo
+rumor, murmur;rumor
+to arm, put together;armar
+competition, gathering;concurso
+treasure, thesaurus;tesoro
+budget;presupuesto
+rural, country;rural
+surveillance, vigilance;vigilancia
+supreme;supremo
+confused, mixed up;confuso
+dam, prisoner (f);presa
+stomach;estómago
+to annul, cancel;anular
+decisive, conclusive;decisivo
+ball, sphere;bola
+determination;determinación
+reform, improvement;reforma
+brutal, coarse, clumsy;bruto
+verse, poem;verso
+prerequisite, requirement;requisito
+adolescent;adolescente
+sentimental;sentimental
+wounded, injured;herido
+kilogram;kilo
+to enlarge, elongate;alargar
+conquest;conquista
+bright, luminous;luminoso
+particularly, personally;particularmente
+philosopher;filósofo
+genius, disposition;genio
+succession, series;sucesión
+component, ingredient;componente
+transparent, clear;transparente
+suffering;sufrimiento
+apparent;aparente
+entity;entidad
+greeting;saludo
+to stimulate, encourage;estimular
+certainty;certeza
+deposit, sediment;depósito
+humid, damp;húmedo
+hall, corridor;pasillo
+to step on;pisar
+solidarity, togetherness;solidaridad
+Pope (m), potato (f);papa
+geography;geografía
+slight, trifling, light;leve
+toy;juguete
+to violate, trespass, rape;violar
+joke, funny story;chiste
+learning, apprenticeship;aprendizaje
+husband, spouse;esposo
+marriage, wedding;boda
+realistic;realista
+freshness, coolness;fresco
+lake;lago
+to enrich;enriquecer
+borrowed, lent;prestado
+orientation, direction;orientación
+maturity, ripeness;madurez
+municipal, town;municipal
+demonstration;demostración
+fundamentally, basically;fundamentalmente
+to be/make happy;alegrar
+to transport, carry;transportar
+fulfillment, compliment;cumplimiento
+support, backing, back;respaldo
+superficial;superficial
+eighteen;dieciocho
+fire, conflagration;incendio
+golden, gold-plated;dorado
+to triumph;triunfar
+jewel, treasure;joya
+favorite;favorito
+cemetery, graveyard;cementerio
+school, scholastic;escolar
+publication;publicación
+variation;variación
+warm;cálido
+unconscious, thoughtless;inconsciente
+promotion;promoción
+immediately, at once;enseguida
+magic, magical;mágico
+(legal) sentence, judgment;sentencia
+bitter, sour, painful;amargo
+resolution;resolución
+luckily, fortunately;afortunadamente
+coincidence;coincidencia
+stimulus, encouragement;estímulo
+to welcome, accept;acoger
+philosophical;filosófico
+to sow, plant;sembrar
+to accent, stress;acentuar
+previously;anteriormente
+marine, naval;marino
+bar, rod, rail;barra
+to entertain, amuse;entretener
+to deviate, divert, change;desviar
+to go back;retroceder
+cultured, educated;culto
+girlfriend, bride;novia
+piano;piano
+pretension, claim;pretensión
+speech, talking;habla
+boyfriend, groom;novio
+to smile;sonreír
+spectator, onlooker;espectador
+to tell, narrate;relatar
+thought-out, designed;pensado
+boot, wineskin;bota
+oh;oh
+pretext, excuse;pretexto
+horrible;horrible
+fever, excitement;fiebre
+to spread (out);difundir
+to show (off), shine;lucir
+synthesis;síntesis
+East;este
+nerve;nervio
+scientist;científico
+peculiar;peculiar
+exemplary, model;ejemplar
+grain, kernel;grano
+recently;recientemente
+to reserve, book;reservar
+attendance, assistance;asistencia
+to sacrifice;sacrificar
+purely, simply;puramente
+smile;sonrisa
+to exaggerate;exagerar
+lion;león
+savage, horrible;bárbaro
+acceptance, approval;aceptación
+lip;labio
+visitor;visitante
+autonomous;autónomo
+loud, resounding;sonoro
+transfer;traslado
+to reside, live (in);residir
+temptation;tentación
+future, time to come;porvenir
+to promote;promover
+attraction;atracción
+legal, juridical;jurídico
+to repair, restore;reparar
+renowned, illustrious;ilustre
+crown;corona
+to administer, manage;administrar
+dozen;docena
+to save (money, time);ahorrar
+perfection;perfección
+humidity;humedad
+harvest, crop;cosecha
+to bury;enterrar
+desperation, exasperation;desesperación
+curve;curva
+to contract, shrink, abbreviate;contraer
+soft, limp, gentle;blando
+stable, steady;estable
+certainly, indeed;ciertamente
+asleep, sleeping;dormido
+master, boss (m);amo
+to reflect, consider on;reflexionar
+smoke;humo
+fulfillment, realization;realización
+quarters, barracks;cuartel
+traffic, transit;tránsito
+sixteen;dieciséis
+emphasis;énfasis
+timid, shy, half-hearted;tímido
+manager, entrepreneur;empresario
+yours (sg/+fam);tuyo
+sack, bag, plunder;saco
+vast, immense, huge;vasto
+cross, burden;cruz
+frustrated;frustrado
+pause;pausa
+committed, engaged;comprometido
+freely;libremente
+vice, bad habit, defect;vicio
+tax;impuesto
+consiguiente;consequent; por consiguiente: consequently
+architect;arquitecto
+crossing, intersection;cruce
+to center, focus, base (on);centrar
+coexistence, living together;convivencia
+cable, wiring;cable
+boring, bored;aburrido
+goodness, kindness;bondad
+experiment;experimento
+right, straight, honest;recto
+account, chronicle;crónica
+en seguida: right away, at once;seguida
+to give rise (to), cause;originar
+socialist;socialista
+to drown, choke, flood;ahogar
+splendid, generous;espléndido
+to make an effort, exert oneself;esforzar
+dictatorship;dictadura
+efficiency, effectiveness;eficacia
+to detect;detectar
+vapor, steam;vapor
+drink, beverage;bebida
+to authorize, legalize;autorizar
+talk, chat;charla
+management, step, negotiation;gestión
+to face, confront;afrontar
+existing;existente
+wallet, satchel;cartera
+inclined, slanting;inclinado
+to subtract, minimize;restar
+circulation, traffic;circulación
+accusation;denuncia
+to materialize, fulfill;concretar
+to bite, sting, itch;picar
+storm;tormenta
+metallic;metálico
+focus;foco
+residence;residencia
+spectacular;espectacular
+to swear, take an oath;jurar
+to pray, recite;rezar
+leather, skin;cuero
+mysterious;misterioso
+herb, grass, weed;hierba
+working class;obrero
+administrative;administrativo
+apple, (city) block;manzana
+single, singular;singular
+piece, bit;pedazo
+wisdom, knowledge;sabiduría
+to lead to;inducir
+cigarette;cigarrillo
+to be very pleasing to;encantar
+raw, crude, natural;crudo
+tired, used up, sold out;agotado
+sports, sporty;deportivo
+magnitude, extent;magnitud
+chemical;químico
+button;botón
+theoretical;teórico
+equality;igualdad
+to deprive (of);privar
+to deduce, infer;deducir
+to edit, write, compose;redactar
+notion, idea;noción
+to plan;planear
+to hug, embrace;abrazar
+to tolerate, put up with;tolerar
+seed;semilla
+avenue;avenida
+to discard, reject, rule out;descartar
+devil;diablo
+to fasten, attach, hold;sujetar
+hole, cavity;hueco
+collaborator;colaborador
+caprice, whim;capricho
+community, citizen;ciudadano
+sensible, prudent;prudente
+guitar;guitarra
+agency, branch;agencia
+rage;rabia
+telephone;telefónico
+monument;monumento
+rational;racional
+previously;previamente
+to draw, trace;trazar
+correspondence, connection;correspondencia
+clay, mud;barro
+flight, escape;fuga
+to press, pressure;presionar
+identification;identificación
+context;contexto
+hat, sombrero;sombrero
+to reiterate, repeat;reiterar
+helper, assistant;ayudante
+indifferent;indiferente
+maneuver, operation;maniobra
+unexpected, unforeseen;inesperado
+to distract;distraer
+prejudice;prejuicio
+to trip, stumble;tropezar
+recommendation;recomendación
+frankly, openly;francamente
+to design, develop;diseñar
+to provide;proveer
+to select;seleccionar
+to coexist;convivir
+instinct;instinto
+sincere;sincero
+to progress;progresar
+ideological;ideológico
+caution, forethought;precaución
+theft, robbery;robo
+hair;cabello
+usefulness, utility;utilidad
+complaint;queja
+to be plentiful;abundar
+jealousy, zeal;celo
+advertising, publicity;publicidad
+linked, joined;ligado
+nature, temperament;índole
+to assimilate;asimilar
+prolonged, lengthy;prolongado
+crash, collision;choque
+technology;tecnología
+tube, pipe;tubo
+deaf, dull;sordo
+admirable;admirable
+goods, merchandise;mercancía
+trunk, torso;tronco
+worship, cult;culto
+palm tree, palm;palma
+piece of clothing;prenda
+choir, chorus;coro
+to sew, weave;tejer
+tunnel;túnel
+nearness, proximity;cercanía
+to proclaim;proclamar
+knife;cuchillo
+contempt, disdain;desprecio
+plastic;plástico
+complex;complejo
+to plant;plantar
+orange (fruit);naranja
+to defeat, beat;derrotar
+to brake, restrain;frenar
+voluntary, volunteer;voluntario
+to guess, solve;adivinar
+quota, share, dues;cuota
+fly (insect);mosca
+judicial;judicial
+to fish;pescar
+doctrine, teachings;doctrina
+reserved, booked;reservado
+lagoon;laguna
+distinction;distinción
+tribe;tribu
+shelter, refuge;refugio
+to swallow;tragar
+legitimate;legítimo
+to float, flutter;flotar
+conventional;convencional
+to shake, jolt;sacudir
+giant, gigantic;gigantesco
+dinner;cena
+uncertainty;incertidumbre
+tender, soft;tierno
+slightly, lightly;ligeramente
+aerial, air;aéreo
+to suppress, delete;suprimir
+saving, thrift;ahorro
+to be too much, left over;sobrar
+to sprout;brotar
+prison, imprisonment;prisión
+researcher, investigator;investigador
+technician;técnico
+paradise;paraíso
+automatic;automático
+postre;dessert; a la postre: in the end
+restless, anxious;inquieto
+iced, freezing, icy;helado
+feeding, food;alimentación
+honey;miel
+vulgar, common, banal;vulgar
+challenge, provocation;desafío
+airport;aeropuerto
+to value;valorar
+to differentiate, distinguish;diferenciar
+overcoat, shelter;abrigo
+skillful, clever;hábil
+twenty-four;veinticuatro
+stamp, seal;sello
+bell;campana
+outstanding, leading;destacado
+turned on, burning;encendido
+incident;incidente
+fragment, passage;fragmento
+flat, plain, even, level;plano
+to compensate, make up for;compensar
+obligatory, compulsory;obligatorio
+to assign, allocate;asignar
+contemporary;contemporáneo
+to arouse, provoke;suscitar
+to end, finalize;finalizar
+to reinforce, strengthen;reforzar
+mine;mina
+restaurant;restaurante
+percentage;porcentaje
+driver, conductor;conductor
+with you;contigo
+to evolve, develop;evolucionar
+magic;magia
+to preside over;presidir
+dining room;comedor
+seriousness;seriedad
+hen, coward;gallina
+sword;espada
+discreet, tactful;discreto
+excellence;excelencia
+to shake, move;agitar
+loving, affectionate;amoroso
+muscle;músculo
+optimistic;optimista
+pursuit, persecution;persecución
+empire, fortune;imperio
+helmet;casco
+fight, quarrel;pelea
+return;retorno
+to smell;oler
+to allude to;aludir
+de veras: really, for real;vera
+thin, skinny;delgado
+Latin;latín
+to summarize;resumir
+routine;rutina
+tight, tense;tenso
+improvement;mejora
+residence, address;domicilio
+filth, junk;porquería
+to mock;burlar
+fright, scare;susto
+to insert, fit well;encajar
+to swim;nadar
+daybreak, dawn;amanecer
+cell (biology);célula
+to accelerate, speed (up);acelerar
+critic;crítico
+inspiration, inhalation;inspiración
+brick;ladrillo
+projection, screening;proyección
+to unfold, deploy;desplegar
+to flow, lead into;desembocar
+wool;lana
+indirect;indirecto
+hell, inferno;infierno
+to lighten, relieve, comfort;aliviar
+steel;acero
+executive;ejecutivo
+to hunt;cazar
+I hope that;ojalá
+to clap, applaud;aplaudir
+prisoner;preso
+ticket, bill, note;billete
+to motivate, cause;motivar
+to neglect;descuidar
+concerning;referente
+stupidity, stupid thing;tontería
+(river) bed, ditch;cauce
+ignorance;ignorancia
+to put/go to bed;acostar
+charm, spell;encanto
+exactly, properly;propiamente
+thirst;sed
+shield, coat of arms;escudo
+doll, wrist;muñeca
+endowed, gifted;dotado
+to connect, plug in;conectar
+rank, range;rango
+invention;invento
+to burn, glow;arder
+grounds, precincts;recinto
+ink;tinta
+throat, gorge;garganta
+traveler, passenger;viajero
+killer, assassin;asesino
+rite, ritual;rito
+attraction, charm;atractivo
+quiet, reserved;callado
+frustration;frustración
+flexible;flexible
+cement, concrete;cemento
+catastrophe;catástrofe
+candy, sweets;dulce
+recovery, recuperation;recuperación
+to locate, find, localize;localizar
+average, medium, ordinary;mediano
+lunch;almuerzo
+peaceful;pacífico
+nail, fingernail, toenail;uña
+contradictory;contradictorio
+except (for);excepto
+to wound, hurt;herir
+price, cost, expense;costo
+poner de manifesto: to show;manifiesto
+mortal, lethal, deadly;mortal
+repetition;repetición
+patrimony, inheritance;patrimonio
+solemn;solemne
+statue;estatua
+decline, decay;decadencia
+mute, silent;mudo
+to plunge, hurl, rush;precipitar
+surprised;sorprendido
+to exclude, reject;excluir
+nurse;enfermero
+psychological;psicológico
+to worship, adore;adorar
+fan, devotee;aficionado
+preferable;preferible
+famous, renowned;célebre
+hole, opening;agujero
+to benefit;beneficiar
+rice;arroz
+brave, courageous, bold;valiente
+delicious, delightful, charming;delicioso
+potent, powerful;potente
+beer, ale;cerveza
+scarcity, shortage;escasez
+ministry;ministerio
+your (pl/+fam);vuestro
+notorious, noticeable;notorio
+transition;transición
+sixth;sexto
+to despise, scorn;despreciar
+negative, denial;negativa
+skirt;falda
+to improvise;improvisar
+to emerge, surface;emerger
+to nail;clavar
+singer;cantante
+perseverance;constancia
+electronic;electrónico
+(finger) ring;anillo
+outcome, balance;balance
+understanding;entendimiento
+to turn/knock over, empty;volcar
+still, motionless, calm;quieto
+passing, course, lapse;transcurso
+sweep, clean out;barrer
+breakfast;desayuno
+rug, carpet mat;alfombra
+historian;historiador
+to implore, pray, ask;rogar
+pale, ghastly, faded;pálido
+to plan, program;programar
+excited, lively;animado
+chilean;chileno
+fiction;ficción
+to test;ensayar
+maternal;materno
+player, gambler;jugador
+poster;cartel
+distrust;desconfianza
+respiration, breath;respiración
+to vote;votar
+cane, reed;caña
+to isolate, insulate;aislar
+single, not married;soltero
+prisoner;prisionero
+tourist;turista
+abundance;abundancia
+to roll, run, scatter;rodar
+assistant;asistente
+connected;vinculado
+cheese;queso
+to risk, venture;arriesgar
+indication, sign;indicio
+hanging;colgado
+to baptize, christen;bautizar
+hill;cerro
+to untie, unleash, spark off;desatar
+to encourage;alentar
+to unleash, unload;descargar
+gallery, balcony;galería
+deceit, falsehood, hoax;engaño
+to fall in love;enamorar
+geographical;geográfico
+continuity;continuidad
+recipe, prescription;receta
+convenience, usefulness;conveniencia
+to replace;reemplazar
+lack, shortage;carencia
+pig, sow, slob;cerdo
+to blow (wind);soplar
+fragile, weak;frágil
+insistence, determination;empeño
+aggression, attack;agresión
+fortress, strength;fortaleza
+seriously;seriamente
+balcony;balcón
+observer;observador
+ridiculous, absurd;ridículo
+income;renta
+justification;justificación
+confrontation;enfrentamiento
+meeting, conference, seam;junta
+irregular;irregular
+trajectory, path;trayectoria
+brilliant, inspired;genial
+indifference;indiferencia
+cup, bowl;taza
+tie, bond, link;vínculo
+notebook, workbook;cuaderno
+funny, charming, amusing;gracioso
+to rule, govern, manage;regir
+interim, intermediate;intermedio
+to bathe, take a bath;bañar
+temporary;temporal
+to touch (lightly);rozar
+panic;pánico
+distinguished;distinguido
+canyon, cannon;cañón
+doubtful, dubious;dudoso
+chicken;pollo
+regrettable;lamentable
+transcendent nature, significance;trascendencia
+to remit;remitir
+endless, interminable;interminable
+corruption;corrupción
+confession, admission;confesión
+tie, sash;corbata
+male, manliness;macho
+to dissolve;disolver
+sequence;secuencia
+cancer;cáncer
+to watch over;velar
+archive, file, filing cabinet;archivo
+habitually;habitualmente
+procedure, step, requirement;trámite
+calmly, peacefully;tranquilamente
+unnecessary;innecesario
+line, ray, stripe;raya
+television set;televisor
+stability;estabilidad
+greatness, size;grandeza
+hurry;prisa
+to persist;persistir
+to tremble, shake;temblar
+verbal, oral;verbal
+mathematics;matemática
+demon, devil;demonio
+intact;intacto
+coming (from);procedente
+to dine;cenar
+available;disponible
+to transform, turn;tornar
+pleased, delighted;encantado
+British;británico
+sleeve;manga
+to endanger;perjudicar
+labor, industry;laboral
+blonde, fair;rubio
+to avoid, prevent;prevenir
+silk;seda
+envy;envidia
+emergency;emergencia
+in love;enamorado
+grease, fat;grasa
+to culminate, accomplish;culminar
+mayor;alcalde
+insufficient;insuficiente
+sustained, steady;sostenido
+congress;congreso
+frightening, dreadful;espantoso
+applause, praise, acclaim;aplauso
+female cousin, down payment;prima
+anxiety;ansiedad
+leader, director, manager;dirigente
+promotion, climb;ascenso
+purpose, aim;finalidad
+to precede;preceder
+financial;financiero
+nostalgia, homesickness;nostalgia
+mention;mención
+fondness, interest;afición
+colonial;colonial
+shame, pity;lástima
+theatrical;teatral
+pencil;lápiz
+vertical, upright;vertical
+nest;nido
+free, arbitrary, gratuitous;gratuito
+with difficulty;difícilmente
+orchestra, dance band;orquesta
+connection, relationship;conexión
+to alternate;alternar
+plant, vegetable;vegetal
+worn out, old, used;usado
+force, strength, vigor;vigor
+salary, wages;salario
+to get right;acertar
+(cutting) edge;filo
+ambitious, greedy;ambicioso
+police;policial
+poetic;poético
+to beat (object);batir
+corn, maize;maíz
+unfortunately;desgraciadamente
+satisfactory;satisfactorio
+autonomy, range;autonomía
+vague;vago
+stupid, idiotic;estúpido
+to delay, take time;demorar
+housekeeper, housewife;ama
+kiss;beso
+waist;cintura
+automatically;automáticamente
+guideline, rule, standard;pauta
+honest;honesto
+reception, waiting-room;recepción
+bullet, shot;bala
+suicide;suicidio
+plaque, plate, badge;placa
+to calm, soothe, relieve;calmar
+brusque, abrupt, sudden;brusco
+murder, assassination;asesinato
+mindset, mind;mentalidad
+hierarchy, rank;jerarquía
+duration, length;duración
+finding, discovery;hallazgo
+proximity;proximidad
+statistic;estadística
+to boast, show off, suppose;presumir
+three hundred;trescientos
+illuminated;iluminado
+castle;castillo
+translation;traducción
+fun, entertainment;diversión
+introduction;introducción
+lamp;lámpara
+saying, proverb;dicho
+symbolic;simbólico
+to flow;fluir
+heroic;heroico
+to murder, assassinate;asesinar
+audience, hearing;audiencia
+passenger;pasajero
+tenth;décimo
+side, flank;costado
+autumn;otoño
+fair, festival;feria
+exile;exilio
+doubtless, undoubtedly;indudablemente
+to preserve;preservar
+bearer, carrier;portador
+bishop;obispo
+to disguise, hide, pretend;disimular
+burned, burnt;quemado
+to perfect;perfeccionar
+vain, useless;vano
+opening, beginning;apertura
+ideology;ideología
+homemade;casero
+annoyed, bothered, upset;molesto
+to cook;cocinar
+auxiliary, ancillary;auxiliar
+quiet, silent;silencioso
+to navigate, sail;navegar
+hunter;cazador
+insurance;seguro
+ingenuity, talent, wit;ingenio
+female, woman;hembra
+faction, side;bando
+native;nativo
+bedroom, dormitory;dormitorio
+fullness, abundance;plenitud
+acceptable, suitable;aceptable
+courage, toughness;coraje
+lead, bullet;plomo
+descendant;descendiente
+categorical;rotundo
+republic;república
+mountain range, saw;sierra
+to flatten, crush, smash;aplastar
+glove;guante
+cardboard, carton, sketch;cartón
+sudden;repentino
+anxious eager;ansioso
+to underline, highlight, emphasize;subrayar
+adolescence;adolescencia
+slow, slowly;despacio
+innumerable, countless;innumerable
+complication;complicación
+unbearable, intolerable;insoportable
+taxi, cab;taxi
+part, portion, share;porción
+doorbell, bell, seal, stamp;timbre
+monster, monstrosity;monstruo
+baby;bebé
+trajectory, course, path;trayecto
+balloon, globe;globo
+celebration;celebración
+task, job, chore;quehacer
+electoral;electoral
+mania, obsession;obsesión
+bronze;bronce
+formidable, tremendous;formidable
+license, permission;licencia
+motivation;motivación
+ninety;noventa
+last night;anoche
+depression, slump;depresión
+lung;pulmón
+to take power;apoderar
+to debate, discuss;debatir
+to replace, restore;reponer
+fiber, grain;fibra
+to dispute, contest;disputar
+hundred;quinientos num
+oil, petroleum;petróleo
+successively, step by step;sucesivamente
+permanence, tenure;permanencia
+you (subj-sg/+fam);vos
+wednesday;miércoles
+oven, furnace;horno
+success, achievement;logro
+womb, belly;vientre
+request, petition;petición
+civilian;civil
+distribution, delivery;reparto
+warning, notice;advertencia
+to snatch, grab;arrebatar
+forecast, precaution;previsión
+wretched, miserable;miserable
+agreeable, pleasant;grato
+mandate, order, command;mandato
+to hate;odiar
+seventeen;diecisiete
+shyness, timidity;timidez
+touch, ringing, warning;toque
+mask;máscara
+revenge, vengeance;venganza
+beard;barba
+alarm;alarma
+to insinuate, hint;insinuar
+breath, courage, spirit;aliento
+purity, chastity;pureza
+to pass away (to die);fallecer
+comedy, play, pretense;comedia
+small village;aldea
+energetic, vigorous;enérgico
+to evade, avoid, elude;eludir
+paragraph;párrafo
+permanently;permanentemente
+shine, twinkling, sparkle;brillo
+to occasion, bring about;ocasionar
+track, sign, flea market;rastro
+specifically, exactly;concretamente
+ignorant;ignorante
+decoration, adornment;adorno
+strangely, funnily enough;curiosamente
+logically;lógicamente
+monkey;mono
+reasoning;razonamiento
+learned, illustrated;ilustrado
+shepherd, pastor;pastor
+section, stretch, plot;tramo
+challenge, defiance;reto
+very high, tall;altísimo
+marvelous, stupendous;estupendo
+nightmare;pesadilla
+hundred;centenar
+bother, nuisance, trouble;molestia
+remaining;restante
+straw, thatching;paja
+regional;regional
+comic;cómico
+awarding, concession;concesión
+late, belated;tardío
+knot;nudo
+to retake, restart;retomar
+Tuesday;martes
+use, utilization;utilización
+cover, lid;tapa
+treason, betrayal;traición
+to settle, establish, locate;asentar
+fishing;pesca
+discomfort, unease, unrest;malestar
+rat;rata
+punctual;puntual
+defender;defensor
+help, aid, assistance;auxilio
+to tighten, make closer;estrechar
+to go beyond, cross over;traspasar
+copper;cobre
+imaginary;imaginario
+brutal, savage;brutal
+spread out;disperso
+naive, ingenuous;ingenuo
+annual, yearly;anual
+intuition;intuición
+invention, contrivance;invención
+as well, also, moreover;asimismo
+vein;vena
+brake;freno
+costly, expensive;costoso
+full, overcrowded;repleto
+to complete, carry out;consumar
+to assault;asaltar
+interruption;interrupción
+sentence (in prison), penalty;condena
+innocence;inocencia
+relieve;relief; poner de relieve: to emphasize
+similarity, likeness;semejanza
+summit, top;cumbre
+daily;diariamente
+colmo;climax; para colmo: to top it all
+amazing;asombroso
+administrator, manager;administrador
+to repent, regret;arrepentir
+decree, order;decreto
+demanding, urgent;exigente
+irony;ironía
+to congratulate;felicitar
+sign, mark, seal;seña
+ritual, rite;ritual
+appropriate, fit, able;apto
+uncertain;incierto
+thick, dense, stiff;espeso
+to be present at, witness;presenciar
+desk, bureau;escritorio
+request, application;solicitud
+eve;víspera
+insect;insecto
+ridicule;ridículo
+to knock down, demolish;derrumbar
+rage, wrath;ira
+ash;ceniza
+passionate;apasionado
+nun;monja
+abstract;abstracto
+birth;parto
+creative;creativo
+authoritarian;autoritario
+excessively;excesivamente
+circuit, circumference, track;circuito
+underground;subterráneo
+sheep, ewe;oveja
+landlady, owner (f);dueña
+to damage;dañar
+position, location;ubicación
+ferocious, fierce;feroz
+ranch;hacienda
+antiquity, seniority;antigüedad
+fist, handle, cuff;puño
+excuse;excusa
+to amaze, astound;asombrar
+plot, theme;trama
+systematic;sistemático
+including, even;inclusive
+alteration, change;alteración
+utmost, highest;sumo
+efficient;eficiente
+invisible;invisible
+accusation, charge;acusación
+sincerely;sinceramente
+salvation, rescue;salvación
+rebel;rebelde
+founder;fundador
+oscillate;oscilar
+privileged;privilegiado
+to recover, regain;recobrar
+machinery;maquinaria
+dominant, prevailing;dominante
+to empty, pour out;vaciar
+torture;tortura
+insistence, persistence;insistencia
+to bite;morder
+to trap, catch;atrapar
+lukewarm;tibio
+to dawn, get light;amanecer
+suspicious;sospechoso
+nephew;sobrino
+to recite;recitar
+to explore;explorar
+fabulous, fantastic;fabuloso
+to embark, load;embarcar
+to wait for, await;aguardar
+note, annotation;apunte
+ancestor;antepasado
+beforehand, in advance;antemano
+to give birth;parir
+to take shelter, give refuge;refugiar
+armchair, seat;sillón
+heavy, dense, thick;denso
+collective, group;colectivo
+diet;dieta
+lieutenant, deputy mayor;teniente
+pole, polo, polo shirt;polo
+to verify;verificar
+agricultural, farming;agrícola
+abyss, large gap;abismo
+cotton;algodón
+flour;harina
+accuracy;exactitud
+to extinguish, put out;extinguir
+benefit, use;provecho
+monthly;mensual
+to please;agradar
+excel, out perform;sobrepasar
+prudence, moderation;prudencia
+insult;insulto
+to narrate, tell;narrar
+flow, tide, discharge;flujo
+needle, spire, stylus;aguja
+proposal, exposition;planteamiento
+simultaneously;simultáneamente
+to flower, bloom, flourish;florecer
+clumsy, awkward, slow;torpe
+curtain, screen;cortina
+to bring up, entail;acarrear
+smooth, flat, straight;liso
+scared, frightened;asustado
+to deepen, analyze in depth;profundizar
+to wager, bet;apostar
+appropriate, suitable;propicio
+reproduction;reproducción
+expansion, spreading;expansión
+threshold, outset;umbral
+allusion, hint;alusión
+decline, descent, lowering;descenso
+to classify, sort, file;clasificar
+to trim, cut off, clip;recortar
+aforementioned, said;dicho
+ambiguous;ambiguo
+ocean;océano
+proposition;proposición
+absurdity, nonsense;absurdo
+(transportation) stop;parada
+charming;encantador
+to slide, glide, slip;deslizar
+to stretch, strain;estirar
+respectful;respetuoso
+african;africano
+headline, holder;titular
+calendar;calendario
+participant in a dialog;interlocutor
+to abuse;abusar
+to complement, supplement;complementar
+disgust, annoyance;disgusto
+conservation;conservación
+to revive;revivir
+production;elaboración
+to move, affect;conmover
+mail, post (office);correo
+circus;circo
+adversary;adversario
+covering, top, lid;cubierta
+anniversary;aniversario
+strip, stripe, fringe;franja
+to chat, talk;charlar
+(baptismal) font, battery, heap;pila
+thin, frail;flaco
+biological;biológico
+to be equivalent, tantamount (to);equivaler
+to foster, promote, encourage;fomentar
+rubber;goma
+enormously;enormemente
+width;ancho
+emotional;emocional
+diplomatic;diplomático
+grape;uva
+ethics;ética
+inscription, registration;inscripción
+progressive;progresivo
+to renew, resume;reanudar
+acquisition;adquisición
+to move, change;mudar
+glorious;glorioso
+feeling;sentir
+Turkish;turco
+to do without;prescindir
+resignation, renunciation;renuncia
+loan, borrowing;préstamo
+populated;poblado
+to kiss;besar
+printed;impreso
+dedication, devotion;dedicación
+institute;instituto
+dove;paloma
+to emphasize;resaltar
+devotion;devoción
+inverse, opposite;inverso
+to exchange;intercambiar
+to console;consolar
+to decompose, break down;descomponer
+to focus;enfocar
+thorn, spine;espina
+approval, consent;aprobación
+front of a building;fachada
+functional;funcional
+juice;jugo
+to betray;traicionar
+disciple;discípulo
+colonel;coronel
+organic;orgánico
+modification, alteration;modificación
+accumulation;acumulación
+comparable;comparable
+maintenance, sustenance;mantenimiento
+marginal, minor;marginal
+brown, dark, dim;pardo
+head, header;cabecera
+revelation;revelación
+peseta (money);peseta
+cradle, birth, lineage;cuna
+spread, hung, laid (out);tendido
+horizontal;horizontal
+acid;ácido
+inability, incompetence;incapacidad
+village, town;villa
+(river) bed, couch;lecho
+rent, rental;alquiler
+to contrast;contrastar
+editing, wording, essay;redacción
+index card, chip, token;ficha
+painful, laborious;penoso
+insecurity;inseguridad
+comma (f), coma (m);coma
+to clear up, unwrap;desenvolver
+agriculture, farming;agricultura
+ease, spontaneity;naturalidad
+serenity, calm;serenidad
+preferred, favorite;preferido
+gun, pistol;pistola
+to question, interrogate;interrogar
+insignificant;insignificante
+to subsist, survive;subsistir
+deputy, member;diputado
+literally;literalmente
+grief, affliction;duelo
+to stir, mix, scramble;revolver
+frequently, often;frecuentemente
+to return, give back;retornar
+commander, commanding officer;comandante
+imprisoned, confined;preso
+opera;ópera
+answer, retort, copy;réplica
+strongly;fuertemente
+global, overall;global
+to rent, hire;alquilar
+pulse, pulsation;pulso
+to lie, be situated;radicar
+exploitation, cultivation;explotación
+beast, brute;bestia
+to make wet, dampen;mojar
+hug, embrace;abrazo
+assault, robbery;asalto
+rest, peace;reposo
+sheet (of metal);lámina
+pasta, dough;pasta
+to knock down, overthrow;derribar
+oral;oral
+polemics, argument;polémica
+partial, biased;parcial
+chocolate;chocolate
+generosity;generosidad
+mass, massive;masivo
+to stand out, excel;sobresalir
+realism;realismo
+to seep, filter;filtrar
+deserted, desolate;desierto
+agreement, accord;acorde
+suggestion;sugerencia
+birthday;cumpleaños
+round;ronda
+to mobilize;movilizar
+chapel;capilla
+completely, entirely;enteramente
+to call upon, appeal to;apelar
+dossier, proceedings;expediente
+tolerance;tolerancia
+to fill with enthusiasm, excite;entusiasmar
+educational;educativo
+soup;sopa
+rival;rival
+tenderness;ternura
+variant, difference;variante
+to sew;coser
+mold, cast, pattern;molde
+in force, valid;vigente
+ghost, specter;espectro
+healthy, wholesome;saludable
+clipping, cutting, trimming;recorte
+regulations, rules;reglamento
+tight, jammed;apretado
+vitality, health;vitalidad
+Carefully;cuidadosamente
+adaptation;adaptación
+label, etiquette;etiqueta
+obviously;obviamente
+city wall;muralla
+missing;desaparecido
+repression;represión
+reduction;reducción
+spread, diffusion;difusión
+dreadful, awful;pésimo
+job, order, errand;encargo
+to mature, ripen;madurar
+to have lunch;almorzar
+west;oeste
+to lodge, harbor;albergar
+to please, satisfy;complacer
+fisherman;pescador
+diagnosis;diagnóstico
+(city) block;cuadra
+to remove;remover
+to sin;pecar
+rein, restraint;rienda
+cruelty, harshness;crueldad
+to happen, come about;acontecer
+anxiety, anguish;ansia
+cupola, dome;cúpula
+to overflow, spill over;desbordar
+flame, llama;llama
+to plead, argue;alegar
+vegetation;vegetación
+motto, slogan;lema
+to front, confront;encarar
+boat, container;bote
+solar;solar
+inevitably;inevitablemente
+perfume;perfume
+headquarters;central
+selfish;egoísta
+membership, property;pertenencia
+exotic;exótico
+to calm down;tranquilizar
+cottage;casita
+to emigrate;emigrar
+alliance;alianza
+physically;físicamente
+fascinating;fascinante
+rough, coarse, harsh;áspero
+to discard;desechar
+mouse, rat;ratón
+deed, heroic feat;hazaña
+hardness, toughness;dureza
+(bed) sheet;sábana
+checking revision;revisión
+retreat, withdrawal;retirada
+basically;básicamente
+aroma;aroma
+optimism;optimismo
+mate (beverage);mate
+luxurious;lujoso
+event;evento
+physicist;físico
+to use for the first time, debut;estrenar
+grass, pasture;pasto
+hostile, unfriendly;hostil
+rooster;gallo
+tropical;tropical
+yield, output, efficiency;rendimiento
+slowness;lentitud
+classroom;aula
+to incite;incitar
+open, frank, outspoken;franco
+unpublished;inédito
+hymn, anthem;himno
+trade union;sindicato
+butterfly, wing nut;mariposa
+to favor, foster, aid;propiciar
+faithfulness, accuracy;fidelidad
+delay;retraso
+movement, removal;desplazamiento
+to question;cuestionar
+integral, part of a group;integrante
+linguistic;lingüístico
+fellow countryman;compatriota
+Mexican;mexicano
+to melt, cast, smelt;fundir
+town, locality;localidad
+to repress;reprimir
+authorized;autorizado
+loyal, faithful;leal
+wolf;lobo
+assembly;asamblea
+handkerchief, shawl;pañuelo
+to meditate, ponder;meditar
+tremor, shudder, shiver;temblor
+tour;gira
+cloak;manto
+Cuban;cubano
+amazement, astonishment;asombro
+governor;gobernador
+breadth, extent, range;amplitud
+coal, charcoal;carbón
+camp, camping;campamento
+bloody;sangriento
+mathematical;matemático
+portuguese;portugués
+intensely;intensamente
+softly;suavemente
+excursion;excursión
+To preach;predicar
+to embody;encarnar
+regrettably;lamentablemente
+tomato;tomate
+to negotiate, deal (with/in);negociar
+belt;cinturón
+static, motionless;estático
+in days gone by, last year;antaño
+bulk, shape;bulto
+to where?;adónde
+vocabulary;vocabulario
+speculation, conjecture;especulación
+manual, handbook;manual
+representative;representativo
+to honor;honrar
+shot, discharge;disparo
+to unleash, unchain;desencadenar
+residue, waste;residuo
+vanity, conceit;vanidad
+to offend;ofender
+renewal, renovation;renovación
+to cool;enfriar
+furious;furioso
+studious;estudioso
+to illustrate;ilustrar
+to ratify;ratificar
+plague, pestilence, pest;peste
+expedition;expedición
+to rip/break into pieces;destrozar
+Basque;vasco
+to pretend, simulate;simular
+additional, complementary;complementario
+mechanics, mechanism;mecánica
+electricity;electricidad
+unusual, uncommon;insólito
+fearful;temeroso
+extraordinarily;extraordinariamente
+elevator;ascensor
+bicycle;bicicleta
+dedicated, consecrated;consagrado
+contribution;aporte
+awake;despierto
+scholarship, grant;beca
+to consent to, pamper;consentir
+wheat;trigo
+to paralyze;paralizar
+to dissipate, disperse;disipar
+to increase;incrementar
+platform, springboard;plataforma
+teacher (f);maestra
+clinic;clínica
+heir, heiress;heredero
+pregnant;embarazada
+stadium;estadio
+Latin American;latinoamericano
+technological;tecnológico
+parade, line, formation;desfile
+ship, vessel, hull;buque
+kinship;parentesco
+mistake, blunder, fault;fallo
+rebelliousness, defiance;rebeldía
+unequal, uneven, irregular;desigual
+correction, amendment;corrección
+spark;chispa
+virgin;virgen
+to reproach;reprochar
+survival;supervivencia
+charity;caridad
+to light, illuminate;alumbrar
+communion;comunión
+ambassador;embajador
+third;tercio
+illumination, lighting;iluminación
+censorship, criticism;censura
+dispute, argument, quarrel;disputa
+splendor;esplendor
+to register, record;inscribir
+damage, loss;perjuicio
+medal, medallion;medalla
+loyalty, faithfulness;lealtad
+divorce;divorcio
+to endow, bestow;dotar
+focus, approach;enfoque
+civilized;civilizado
+firmness;firmeza
+unquestionable;indudable
+hill, slope;colina
+piece of property;parcela
+cage, crate, playpen;jaula
+adjustment, settlement;ajuste
+side, lateral;lateral
+burial;entierro
+to burst, puncture;reventar
+servant;servidor
+superiority;superioridad
+tourism;turismo
+atrocity;barbaridad
+roll, coil;rollo
+arbitrary;arbitrario
+triangle;triángulo
+isolation;aislamiento
+relief, unburdening;alivio
+training;entrenamiento
+trick, ruse;truco
+respectable;respetable
+nonsense, blunder;disparate
+cook;cocinero
+to bore, tire;aburrir
+diminutive, tiny, minute;diminuto
+heavenly, sky-blue;celeste
+photographer;fotógrafo
+imposition;imposición
+to dilute, weaken;diluir
+convincing;convincente
+comfort, consolation;consuelo
+journalistic;periodístico
+affectionate;cariñoso
+broadcast, transmission;transmisión
+to title, call;titular
+(foot) path;sendero
+to frequent, visit;frecuentar
+disagreement;desacuerdo
+academy;academia
+correct, accurate;acertado
+cathedral;catedral
+mediocre;mediocre
+vanguard, forefront;vanguardia
+to defy, stand up to;desafiar
+agitated, irritated;agitado
+precarious;precario
+health, sanitary, clean;sanitario
+understandable;comprensible
+careful, cautious;cuidadoso
+to deprive, rob;despojar
+pregnancy;embarazo
+impossibility;imposibilidad
+irrational;irracional
+to reign, prevail;reinar
+buried, sunken;hundido
+news report;reportaje
+drum;tambor
+foundation;fundación
+transparency, slide;transparencia
+elegance, style;elegancia
+criminal;criminal
+praise, eulogy, compliment;elogio
+blanket;manta
+dynamic;dinámico
+to boil;hervir
+serene, calm;sereno
+retired, remote, secluded;retirado
+alert;alerta
+sincerity;sinceridad
+academic chair;cátedra
+refined;refinado
+repertoire, list, index;repertorio
+(electric) iron, plate, sheet;plancha
+terrace, balcony;terraza
+gala (performance/dinner);gala
+era, age;era
+start, outburst, kick-start;arranque
+kick, punt;patada
+to excuse;disculpar
+lapse;lapso
+sweat, perspiration;sudor
+appetite;apetito
+intimately;íntimamente
+indication;indicación
+to last, live on, endure;perdurar
+ally;aliado
+presidency;presidencia
+damned, wretched;maldito
+advisor, counselor;consejero
+to flood, inundate;inundar
+watchword, motto, slogan;consigna
+courtesy;cortesía
+immovable, motionless;inmóvil
+attribute, quality;atributo
+fury, rage;furia
+crude, rude, crass;grosero
+Catalan;catalán
+stature, height;estatura
+old age;vejez
+earthquake;terremoto
+to articulate;articular
+strip, strap;tira
+transmitter, emitter;emisor
+relevant, significant;relevante
+integrity;integridad
+authorization;autorización
+audacious, bold;audaz
+seminar, seminary;seminario
+wave, tide, ebb;marea
+resentment;resentimiento
+delinquent;delincuente
+to weaken, debilitate;debilitar
+to feign, pretend;fingir
+to equate, equalize;igualar
+disguised;disfrazado
+to climb;trepar
+mutually, each other;mutuamente
+correctly;correctamente
+agile;ágil
+behind, slow;atrasado
+skeleton, framework;esqueleto
+indignation;indignación
+grateful, thankful;agradecido
+additional;adicional
+sculpture, carving;escultura
+conditioned;condicionado
+infinity, countless;infinidad
+pillar, column;pilar
+optimum;óptimo
+sudden;súbito
+to regulate, adjust;regular
+you (subj-pl/+fam);vosotros
+to finish off, finish up;rematar
+incomprehensible;incomprensible
+independently;independientemente
+perception;percepción
+minority;minoría
+deterioration, damage;deterioro
+to argue, deduce;argumentar
+handsome, beautiful;guapo
+sanction, approval, penalty;sanción
+to populate, inhabit;poblar
+to contradict, be inconsistent;contradecir
+engrossed, immersed;inmerso
+to manipulate, handle;manipular
+suitcase, case;maleta
+task, job, performance;faena
+to water, irrigate;regar
+to evoke, recall;evocar
+snake;serpiente
+coming from;proveniente
+fundamental, primary;primordial
+agitation, excitement;agitación
+to prosper, thrive;prosperar
+gain, profit;ganancia
+genetic;genético
+pine (tree);pino
+to raze, ravage;arrasar
+to discount;rebajar
+to interview;entrevistar
+unhappy, unfortunate;infeliz
+compact, dense;compacto
+crying, weeping;llanto
+departure, first half of a trip;ida
+coherent, connected;coherente
+flaw, failure;falla
+contribution;contribución
+mockery, joke, trick;burla
+follower, supporter, fan;seguidor
+strategic;estratégico
+pearl;perla
+ethical;ético
+integration;integración
+aware of;enterado
+siesta, afternoon nap;siesta
+to reply;replicar
+incipient, beginning;incipiente
+to adorn, to decorate;adornar
+alternating, alternative;alternativo
+expressive;expresivo
+mustache;bigote
+to coincide, concur, meet;concurrir
+childhood, infancy;niñez
+firewood;leña
+evening, dusk;atardecer
+to restore, reinstate;restaurar
+to delay, fall behind;retrasar
+state, government-owned;estatal
+question, interrogator;interrogante
+to feel, touch, fondle;palpar
+continual, perpetual;perpetuo
+lens, [pl] glasses;lente
+rhythm, time, compass;compás
+sterile, barren;estéril
+plain, prairie, plainness;llanura
+collar, necklace;collar
+poison, venom;veneno
+marble;mármol
+biography;biografía
+latent;latente
+rebellion;rebelión
+liver;hígado
+thief;ladrón
+to give the appearance;aparentar
+Dutch;holandés
+board, panel;tablero
+buried;enterrado
+imitation;imitación
+advance, progress;adelanto
+jealous;celoso
+to get dark;oscurecer
+constitutional;constitucional
+interval, gap;intervalo
+swig, drink;trago
+fraction;fracción
+convent, monastery;convento
+brook, stream, gutter;arroyo
+circular;circular
+link, connection, bond;enlace
+to twist, bend, distort;torcer
+to shed, pour out;derramar
+dictionary;diccionario
+reflected;reflejado
+outskirts, suburbs;afueras
+to aggravate;agravar
+eyebrow, brow;ceja
+detailed, thorough;detallado
+to interpose, intervene;interponer
+to run into, bump into;topar
+constitution;constitución
+to link, connect;enlazar
+classification;clasificación
+trapped;atrapado
+mess, problem, bad situation;lío
+headquarters, seat;sede
+to slip in [se];colar
+highly;altamente
+liter;litro
+tray;bandeja
+approximation;aproximación
+light, frivolous;liviano
+enthused, excited;entusiasmado
+rag, cloth;trapo
+expert, judge, connoisseur;conocedor
+to head for, guide;encaminar
+altar;altar
+good aim, guess, hit;acierto
+pilot, driver;piloto
+susceptible;susceptible
+unforgettable;inolvidable
+to invoke;invocar
+computer;computadora
+to flaunt, show off;ostentar
+wire;alambre
+handle, mango;mango
+to make up, comprise;configurar
+rosary, beads, string;rosario
+reconstruction;reconstrucción
+parish;parroquia
+noisy;ruidoso
+supposedly, allegedly;supuestamente
+widely;ampliamente
+gigantic;gigante
+to prevail;prevalecer
+buyer;comprador
+pity, mercy;piedad
+weekly;semanal
+undercover, clandestine;clandestino
+defensive;defensivo
+manual;manual
+to engender, beget;engendrar
+to infect, infest;contagiar
+fog;niebla
+to where;adonde
+to consecrate, establish;consagrar
+mixed, co-ed;mixto
+verb;verbo
+hip;cadera
+procession;procesión
+poll, survey, inquiry;encuesta
+breeding, raising;cría
+narration, account;narración
+bunch (of flowers), branch;ramo
+penal;penal
+traitor;traidor
+catalog;catálogo
+protector, defender;protector
+protection, shelter;amparo
+pharmacy, drugstore;farmacia
+summit, peak, top;cima
+kidney;riñón
+picturesque;pintoresco
+property, estate;finca
+evaluation, qualification;calificación
+volume, abundance;caudal
+advertising;publicitario
+confusion, trouble, upheaval;trastorno
+to adhere to, fit tightly;ceñir
+young person;jovencito
+inclusion, incorporation;incorporación
+corral, yard;corral
+fatigue;fatiga
+witch, hag;bruja
+exploration;exploración
+matrimonial;matrimonial
+equivalent;equivalente
+illustration;ilustración
+accomplice;cómplice
+melody;melodía
+producer;productor
+desirable;deseable
+to prove, verify;constatar
+porter, doorkeeper, goalkeeper;portero
+rabbit;conejo
+passive;pasivo
+density, thickness;densidad
+to disperse, scatter, spread;dispersar
+wager, bet;apuesta
+nationality;nacionalidad
+striking;llamativo
+to vacillate, hesitate;vacilar
+waiter, youth, bellboy;mozo
+to capture;capturar
+horn, antler;cuerno
+to heal, cure;remediar
+to vouch for, confide, trust;fiar
+to march, parade;desfilar
+size (of clothing), stature;talla
+justifiable, justified;justificado
+commissioner, delegate;comisario
+photographic;fotográfico
+approach, approximation;acercamiento
+messy, confused;desordenado
+graphic, explicit;gráfico
+to reappear;reaparecer
+confused, messed up;revuelto
+outline, perimeter, edge;contorno
+selfishness;egoísmo
+a bordo: on board;bordo
+compensation;compensación
+prohibition;prohibición
+to work, act;obrar
+express, explicit;expreso
+to crown, top;coronar
+to liquidate, sell (off);liquidar
+maze, labyrinth;laberinto
+erotic;erótico
+threatened;amenazado
+imminent;inminente
+eternity;eternidad
+to review, revise;repasar
+pill, capsule;pastilla
+shit, crap, excrement;mierda
+contest, dispute;contienda
+imperial, imperialist;imperial
+unexplainable;inexplicable
+Peruvian;peruano
+experimental;experimental
+stream, jet, spurt;chorro
+dull, opaque, heavy;opaco
+nail, tack, peg;clavo
+drought;sequía
+dynamics;dinámica
+leisure (time);ocio
+normality;normalidad
+to sense;intuir
+resonance, repercussion;resonancia
+to devour, consume;devorar
+ephemeral, short-lived;efímero
+jacket;chaqueta
+to grasp, clutch;aferrar
+reversed, inverted;invertido
+disgust;asco
+to consolidate;consolidar
+to hurry up, speed up;apresurar
+litigation, suit, dispute;pleito
+to beat (heart);latir
+simplicity;sencillez
+transitory;transitorio
+stupidity, stupid thing;estupidez
+wet;mojado
+barefoot;descalzo
+positioned, guided;orientado
+senator;senador
+grudge, spite;rencor
+presidential;presidencial
+to speed up, hurry up;apurar
+to insult, berate;insultar
+Brazilian;brasileño
+to maintain, support;sustentar
+probability;probabilidad
+meticulous, thorough;minucioso
+rustic, rural;rústico
+ruler, leader;gobernante
+favor, mercy;merced
+to stroke, fondle, caress;acariciar
+ton;tonelada
+rebel, insurgent;rebelde
+longing, yearning;anhelo
+princess;princesa
+decidedly, decisively;decididamente
+embassy;embajada
+turned off;apagado
+quickly, sharply;bruscamente
+to connect, link, bind;vincular
+bitterness, sorrow;amargura
+to fortify;fortalecer
+validity;validez
+sense of touch, feel;tacto
+elbow;codo
+to vibrate, tremble;vibrar
+to wear (shoes);calzar
+chimney, fireplace;chimenea
+of the community;comunitario
+explicit;explícito
+wild;silvestre
+to evaluate, assess;evaluar
+to move, make/get excited;emocionar
+to edit, publish, release;editar
+range, (handheld) fan;abanico
+fiscal, treasury;fiscal
+spatial, space;espacial
+violently;violentamente
+medieval;medieval
+T-shirt;camiseta
+honest, respectable;honrado
+fast, quick;veloz
+bark, crust, rind, peel;corteza
+to submerge, plunge;sumergir
+mountain range;cordillera
+monotonous;monótono
+length, longitude;longitud
+to scare, frighten;espantar
+unforeseen, unexpected;imprevisto
+psychology;psicología
+Soviet;soviético
+potential;potencial
+traveling;ambulante
+to (put in) group;agrupar
+exaggeration;exageración
+appreciation, assessment;apreciación
+perverse, wicked;perverso
+crash, outbreak, explosion;estallido
+passionate, ardent;ardiente
+heel, check, coupon, stub;talón
+to abide by, comply with;atener
+mattress;colchón
+tenuous, flimsy;tenue
+tint, dye;tinte
+indisputable, unquestionable;indiscutible
+printing house;imprenta
+(walking) cane;bastón
+shady, dark, dismal;sombrío
+humiliation;humillación
+trance, fix, enrapture;trance
+steering wheel;volante
+to head, lead (off);encabezar
+pink, rosy;rosado
+friendly;amistoso
+nobleman, noble;noble
+radically;radicalmente
+claim, complaint, protest;reclamo
+adviser, consultant;asesor
+pertaining, belonging;perteneciente
+novelist;novelista
+wounded (person);herido
+poor, needy;necesitado
+vague, indefinite;indefinido
+united, jointly shared;solidario
+paralyzed;paralizado
+bulk, mass;grueso
+to suck;chupar
+recording;grabación
+bottle, jar, flask;frasco
+disquieting;inquietante
+visual;visual
+vegetables, greenery;verdura
+violation, rape;violación
+innovation;innovación
+get-together, meeting of friends;tertulia
+hearty laughter, guffaw;carcajada
+playing field, court;cancha
+republican;republicano
+destroyed;destruido
+boredom;aburrimiento
+hardworking;trabajador
+to make uneasy, disturb;inquietar
+magnificent, grandiose;grandioso
+specifically;específicamente
+export, exportation;exportación
+extremely;extremadamente
+to expand;expandir
+to predict;predecir
+fortunate, happy;dichoso
+to condition, determine;condicionar
+agrarian, agricultural;agrario
+Swiss;suizo
+alleged, presumed;presunto
+trolley, tram, streetcar;tranvía
+to alert, warn;alertar
+cord, yarn, braid;cordón
+priority;prioridad
+mode, manner;modalidad
+outcome, result;desenlace
+dancer;bailarín
+artifact, device;artefacto
+throne;trono
+adjective;adjetivo
+range, musical scale;gama
+to become ill;enfermar
+cabinet, den, office;gabinete
+to investigate;indagar
+dizzying;vertiginoso
+respectable, decent;decente
+frozen;congelado
+unskilled laborer, field hand;peón
+triple;triple
+inspector;inspector
+orbit, socket, field;órbita
+freeway, motorway;autopista
+prose;prosa
+parenthesis, digression;paréntesis
+manufacture, production;fabricación
+injury, wound, harm;lesión
+cheek;mejilla
+unsure, unsafe;inseguro
+wharf, dock;muelle
+veil;velo
+decoration;decoración
+ranch, farm;rancho
+to excel, exceed;exceder
+to f**k, screw (around/up);joder
+ironic, mocking;irónico
+to alarm;alarmar
+negotiation;negociación
+euphoria, elation;euforia
+convincing;convencimiento
+amazed, bewildered;asombrado
+to scratch, scrape;rascar
+disorder, chaos;desconcierto
+economist;economista
+officially;oficialmente
+sophisticated;sofisticado
+excess, surplus, leftover;sobra
+to entangle, ensnare;enredar
+ingenious, clever;ingenioso
+rate, fee, levy;tasa
+balance, (measuring) scale;balanza
+invoice, bill;factura
+ant;hormiga
+vulnerable;vulnerable
+bear;oso
+line, stroke;trazo
+geometric;geométrico
+to sigh;suspirar
+worm, caterpillar;gusano
+blessed;bendito
+to confer;conferir
+obsession, mania;manía
+apology, excuse;disculpa
+transcendent;trascendente
+alarming;alarmante
+very small, tiny;pequeñito
+to predominate;predominar
+metaphor;metáfora
+penetration, insight;penetración
+fleeting, transitory;pasajero
+whisky;whisky
+tourist;turístico
+to clear (up);despejar
+delirium, nonsense;delirio
+impeccable, faultless;impecable
+proud, arrogant;soberbio
+bookstore;librería
+documentation;documentación
+smiling;sonriente
+ten (of something);decena
+void, null;nulo
+tiger;tigre
+to award;premiar
+relentless, implacable;implacable
+path, lane;senda
+temperament, personality;temperamento
+briefly;brevemente
+to have breakfast;desayunar
+productive, profitable;productivo
+fortune, happiness, luck;dicha
+Andalusian;andaluz
+(el) (meeting) proceedings, minutes;acta
+wax;cera
+tank, large container;tanque
+institutional;institucional
+vigorous, strong;vigoroso
+battery, gun deck;batería
+cream;crema
+atrocious;atroz
+entertainment;entretenimiento
+shovel;pala
+staff of servants, servitude;servidumbre
+to resuscitate;resucitar
+psychologist;psicólogo
+delicious, tasty;sabroso
+actress;actriz
+essentially;esencialmente
+very long;larguísimo
+simultaneous;simultáneo
+donkey;burro
+origin, source;procedencia
+district attorney, prosecutor;fiscal
+far-reaching, transcendental;trascendental
+red, colored;colorado
+to finance;financiar
+participant;participante
+rescue, ransom;rescate
+trouble, predicament;apuro
+to sweat;sudar
+prestigious;prestigioso
+caution;cautela
+chronic;crónico
+tactics, strategy;táctica
+neglect, oversight;descuido
+biblical;bíblico
+slaughter, carnage;matanza
+to perturb, upset;perturbar
+paternal;paterno
+manuscript, writing;escrito
+appearance, look, aspect;pinta
+to envy;envidiar
+to rest, lie down;reposar
+accelerated, quick;acelerado
+arid, dry;árido
+capricious, whimsical;caprichoso
+minute, insignificant;minúsculo
+broth, soup;caldo
+agony, grief;agonía
+to deteriorate;deteriorar
+truce, rest;tregua
+wardrobe, changing room;vestuario
+to despair, lose hope;desesperar
+cellar, pantry, warehouse;bodega
+antenna;antena
+to tie, link, bind;ligar
+evil, wickedness;maldad
+obedience;obediencia
+idea, witty remark;ocurrencia
+openly;abiertamente
+complement, supplement;complemento
+editor, publisher;editor
+journalism;periodismo
+swimming pool;piscina
+provincial;provincial
+to mediate;mediar
+harden, make hard;endurecer
+traditionally;tradicionalmente
+shot, injection;inyección
+illegal;ilegal
+reproach, criticism;reproche
+consistency;consistencia
+nobility, uprightness;nobleza
+earthly, of the earth;terrestre
+impotence;impotencia
+to glimpse;vislumbrar
+cordial, friendly;cordial
+hostility, enmity;hostilidad
+anguished, distressed;angustiado
+medicine, drug;medicamento
+to train;entrenar
+devout, pious, merciful;piadoso
+of the body, corporal;corporal
+conspiracy;conspiración
+unlimited;ilimitado
+detention, arrest;detención
+bus;autobús
+firmly;firmemente
+sporadic;esporádico
+skill;destreza
+to reason (out), think;razonar
+insides, bowels;entrañas
+gratitude;gratitud
+to rectify, straighten (out);rectificar
+melancholy;melancólico
+publisher (f), editorial article (m);editorial
+mobile;móvil
+bug, creature;bicho
+hammer;martillo
+strong, robust, sturdy;robusto
+cooperation;cooperación
+rise, elevation, increase;elevación
+(terrorist) attack, offense;atentado
+fistful, small group;puñado
+flat, level, plain;llano
+Colombian;colombiano
+siren, mermaid;sirena
+foam, lather;espuma
+surgeon;cirujano
+distressing;angustioso
+path, sidewalk;vereda
+to excite;excitar
+claim, demand, redemption;reivindicación
+infection;infección
+kid, youngster;chiquillo
+distraction, amusement;distracción
+to enumerate, count;enumerar
+statistical;estadístico
+ingredient;ingrediente
+to rest, pose, land;posar
+evil, malignant;maligno
+to irritate;irritar
+battle, struggle;pugna
+understanding;comprensivo
+hollow;hueco
+cake;torta
+performer, interpreter;intérprete
+spider;araña
+(face) feature, faction;facción
+eloquent;elocuente
+to knock over, cast down;tumbar
+to penetrate, go inside;adentrar
+diplomat;diplomático
+exhibition, showing;exhibición
+to relax;relajar
+showcase, display window;escaparate
+related, similar;afín
+sergeant;sargento
+to recreate, amuse;recrear
+normal, usual;usual
+aesthetics;estética
+cavalry, knighthood;caballería
+godparent, sponsor;padrino
+diversity, variety;diversidad
+banquet, feast;banquete
+bank, banking;bancario
+to impart, administer;impartir
+walk, gait, pace;andar
+giant;gigante
+fortunate;afortunado
+pavilion, sports hall;pabellón
+bee;abeja
+to assent, agree;asentir
+spontaneously;espontáneamente
+informative;informativo
+violin;violín
+star;astro
+dictator;dictador
+brush, graze;roce
+extension;prolongación
+skull, cranium;cráneo
+to loosen;aflojar
+hello, hi;hola
+imported;importado
+whole, entire, honest;íntegro
+gratitude, gratefulness;agradecimiento
+extra;extra
+boldness, audacity;audacia
+rage (f), cholera (m);cólera
+resignation, acceptance;resignación
+legislation;legislación
+reciprocal;recíproco
+piece of candy, caramel;caramelo
+gunpowder, powder;pólvora
+role;rol
+fertile, rich;fértil
+to get dirty;ensuciar
+to let go, start out;largar
+well-to-do, suitable;acomodado
+idiot, dunce;idiota
+bay;bahía
+latitude;latitud
+ox;buey
+swinging, rocking;vaivén
+mistake, misconception;equivocación
+communism;comunismo
+particle;partícula
+means, interval;intermedio
+economically;económicamente
+alms, charity;limosna
+arrow, dart;flecha
+sovereign, self-assured;soberano
+to sense in advance;presentir
+disappointment, letdown;desilusión
+to insert, put in;insertar
+duck;pato
+warrior, warlike;guerrero
+crack, opening, slit;grieta
+rider, horseman;jinete
+involuntary;involuntario
+to flow, pass, roam;discurrir
+non-existent;inexistente
+subjective;subjetivo
+farmer;agricultor
+claw, fang;garra
+to fatten, get fat;engordar
+support, endorsement;soporte
+coming together, participation;concurrencia
+pyramid;pirámide
+to venture, risk;aventurar
+neutral;neutro
+to claim, sue;demandar
+match, match stick;fósforo
+prophet;profeta
+to be reborn, reappear;renacer
+to reestablish, restore;restablecer
+thigh;muslo
+disoriented, disconcerted;desconcertado
+withdrawal, retreat;retiro
+command, order;comando
+to occur, befall, strike;sobrevenir
+broadcast, emission;emisión
+to exceed, pass over;rebasar
+a tenor de: in accordance with;tenor
+reward, recompense;recompensa
+involvement, complicity;complicidad
+mistrust, suspicion;recelo
+vibration;vibración
+restriction;restricción
+to comply with, abide by;acatar
+to roam, go by;transitar
+rod, stick;vara
+customers, clients;clientela
+sovereignty;soberanía
+imprecise;impreciso
+to inform, become aware;percatar
+coldness, indifference;frialdad
+to commend, entrust;encomendar
+inspection;inspección
+initial (letters);inicial
+to seduce, tempt;seducir
+ocurrence, impact;incidencia
+movement backwards;retroceso
+microphone;micrófono
+foreseeable;previsible
+(vehicle) window;ventanilla
+frontal;frontal
+extinction;extinción
+infinite, infinity;infinito
+champion;campeón
+to influence, affect;incidir
+monstrous;monstruoso
+persistent;persistente
+oxygen;oxígeno
+rigidity;rigidez
+educated;educado
+irreversible;irreversible
+goodbye, farewell;despedida
+to take revenge, avenge;vengar
+lace;encaje
+to ruin, mess up;estropear
+repercussion, impact;repercusión
+premature;prematuro
+to fascinate;fascinar
+winner;ganador
+emperor;emperador
+comet (m), kite (f);cometa
+precedent;precedente
+rude, crude, coarse;rudo
+cerebral;cerebral
+mosaic;mosaico
+meaning, significance;significación
+answer;contestación
+pedagogical, teaching;pedagógico
+asylum, shelter;asilo
+increase, raise;incremento
+to incur, fall into;incurrir
+back, loin, spine;lomo
+to tempt, entice;tentar
+navigation, shipping;navegación
+construction, building;edificación
+abstraction;abstracción
+twenty-two;veintidós
+grotesque, ridiculous;grotesco
+harshly, severely;duramente
+sunken, drowned;sumido
+publicly, in public;públicamente
+to resign, relinquish;resignar
+mortal;mortal
+sinister;siniestro
+mystical;místico
+cabin, cockpit;cabina
+to confer, talk;dialogar
+exempt, free;exento
+warrior, soldier;guerrero
+sidewalk;acera
+clinical;clínico
+for a long time, at length;largamente
+of the street;callejero
+to adhere, attach;adherir
+voluntarily;voluntariamente
+cent;centavo
+mill, windmill;molino
+partially;parcialmente
+disappointment, disenchantment;decepción
+to host, accommodate;alojar
+properly, duly;debidamente
+entity, being, firm;ente
+to confine;internar
+very same;mismísimo
+decisive, blunt, forceful;contundente
+flood, deluge;inundación
+diligence;diligencia
+vice versa;viceversa
+seventh;séptimo
+complexity;complejidad
+lacking, devoid;carente
+clear, clean, neat;nítido
+impressive, magnificent;imponente
+nearness, vicinity;vecindad
+secular, lay;secular
+goat;cabra
+sense of smell;olfato
+name, denomination;denominación
+to border;bordear
+breadth, expanse;envergadura
+admirer;admirador
+to instruct;instruir
+herd, flock;rebaño
+initially;inicialmente
+inseparable;inseparable
+(wild) beast;fiera
+to pour, spill, shed;verter
+to contradict;desmentir
+unstable, unsteady;inestable
+pot, kettle;olla
+terribly;terriblemente
+coconut;coco
+basement;sótano
+aggressiveness;agresividad
+mentally;mentalmente
+adherence;adhesión
+convention, assembly;convención
+place, spot;paraje
+trivial, frivolous;frívolo
+rocket;cohete
+prodigious, famous;prodigioso
+pillow;almohada
+efficiency;eficiencia
+laborious, industrious;laborioso
+ecclesiastical;eclesiástico
+confused;confundido
+roof, housetop;tejado
+elephant;elefante
+to decipher;descifrar
+razor, blade, navaja;navaja
+damnation, curse;maldición
+sailor;marinero
+high school diploma;bachillerato
+brown;marrón
+to start, establish;entablar
+imbalance, unsteadiness;desequilibrio
+synthetic;sintético
+warlike;bélico
+combined;combinado
+waste, refuse, garbage;desperdicio
+to propagate, spread;propagar
+enlargement, extension;ampliación
+container, recipient, tank;recipiente
+parliamentary;parlamentario
+behind, back;trasero
+deployment, display;despliegue
+pound (money/weight);libra
+invasion, incursion;incursión
+unreal;irreal
+towel;toalla
+tennis;tenis
+to outline, shape;perfilar
+enthusiastic;entusiasta
+unloading, discharge;descarga
+patriotic;patriótico
+hygiene;higiene
+to decay, wane;decaer
+socket, basin, bowl;cuenca
+crushed, flattened;aplastado
+lime, whitewash;cal
+rhythmic;rítmico
+to disguise, hide, conceal;disfrazar
+pioneer;pionero
+volcano;volcán
+whore, prostitute;puta
+hispanic;hispano
+diamond;diamante
+constructive;constructivo
+gentleness, tenderness;delicadeza
+occasional, random;ocasional
+expulsion, ejection;expulsión
+enigma, mystery;enigma
+monumental;monumental
+hectare;hectárea
+accessible;accesible
+immigrant;inmigrante
+to burst in, raid;irrumpir
+prevention, warning;prevención
+fence, circle, ring;cerco
+semidarkness, twilight;penumbra
+move, play;jugada
+print, engraving, illustration;estampa
+cave;cueva
+%
+%
+application;aplicación
+%
+%
