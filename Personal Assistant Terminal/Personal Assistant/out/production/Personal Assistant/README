@@ -1,0 +1,26 @@
+Future Ideas :
+
+Pomodoro Timer (should open in new screen)
+Add habits
+Log activities
+    - to track how long it's been since i've done my habits
+    - to track productive time per day
+Figure out ways to track other stats
+Finances
+Cool/Fun additions
+    - Random name generator
+    - All of my little games
+Get quotes from online
+
+
+CURRENT FUNCTIONALITY :
+
+TASKS :
+- remove 'task remove ____'
+- add    'task add "name" due 12/31 time 1000'
+- change 'task change title NAME NEW_NAME'
+- get
+
+
+BUGS :
+tasks' due dates change. default is 2019.
