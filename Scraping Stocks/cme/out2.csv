@@ -1,0 +1,9 @@
+Globex,Exchange,Product Name,Group,Subgroup,Hours
+GE,CME,Eurodollar Options,Interest Rate,Stirs,SUN-FRI: 5:00 p.m. - 4:00 p.m.,22:00UTC
+GE,CME,Eurodollar Futures,Interest Rate,Stirs,SUN - FRI: 5:00 p.m. - 4:00 p.m. CT,22:00UTC
+ZF,CBOT,5-Year T-Note Futures,Interest Rate,US Treasury,SUN - FRI: 5:00 p.m. - 4:00 p.m.,22:00UTC
+ZN,CBOT,10-Year T-Note Futures,Interest Rate,US Treasury,Sunday - Friday 6:00 p.m. - 5:00 p.m.ET (5:00 p.m. - 4:00 p.m. CT).&nbsp; Monday - Thursday 5:00 p.m,22:00UTC
+LNE,NYMEX,Natural Gas Option (European),Energy,Natural Gas,Sunday - Friday 6:00 p.m. - 5:00 p.m. (5:00 p.m. - 4:00 p.m. CT) with a 60-minute break each day beg,22:00UTC
+GE3,CME,Eurodollar 3yr MC Options,Interest Rate,Stirs,SUN-FRI: 5:00 p.m. - 4:00 p.m.,22:00UTC
+ES,CME,E-mini S&P 500 Futures,Equities,US Index,Sunday - Friday 6:00 p.m. - 5:00 p.m. Eastern Time (ET) with&nbsp; trading halt 4:15 p.m. - 4:30 p.m,22:00UTC
+CL,NYMEX,Crude Oil Futures,Energy,Crude Oil,Sunday - Friday 6:00 p.m. - 5:00 p.m. (5:00 p.m. - 4:00 p.m. CT) with a 60-minute break each day beg,22:00UTC
